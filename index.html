@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VRC Yoga Therapy</title>
+    <meta
+      name="description"
+      content="A searchable yoga therapy practice finder built from VRC's yoga therapy knowledge base."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="VRC Yoga Therapy" />
+    <meta
+      property="og:description"
+      content="Browse selected yoga therapy practices, lifestyle guidance, and condition references from the VRC yoga therapy knowledge base."
+    />
+    <meta property="og:url" content="https://vrckumar.github.io/vrc-yoga-therapy/" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="canonical" href="https://vrckumar.github.io/vrc-yoga-therapy/" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="rail" aria-label="Main navigation">
+        <a class="brand" href="./" aria-label="VRC Yoga Therapy home">
+          <span class="brand-mark" aria-hidden="true">YT</span>
+          <span>VRC Yoga Therapy</span>
+        </a>
+        <nav class="rail-nav">
+          <a class="active" href="#finder">Finder</a>
+          <a href="#sequence">Sequence</a>
+          <a href="#knowledge">Knowledge</a>
+          <a href="#safety">Safety</a>
+        </nav>
+        <div class="rail-note">
+          <span>Knowledge base</span>
+          <p>Selected references from the practice, lifestyle, and condition datasets.</p>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Practice finder</p>
+            <h1>Find yoga therapy references by tier, goal, and caution.</h1>
+          </div>
+          <a class="top-link" href="knowledge/content/practices/index.md">Browse practice index</a>
+        </header>
+
+        <section class="metrics" aria-label="Knowledge summary">
+          <article>
+            <span id="practiceCount">0</span>
+            <p>Practices</p>
+          </article>
+          <article>
+            <span id="conditionCount">0</span>
+            <p>Conditions</p>
+          </article>
+          <article>
+            <span id="lifestyleCount">0</span>
+            <p>Lifestyle items</p>
+          </article>
+          <article>
+            <span id="sequenceCount">0</span>
+            <p>Sequence</p>
+          </article>
+        </section>
+
+        <section class="panel finder-panel" id="finder">
+          <div class="panel-head">
+            <div>
+              <h2>Finder</h2>
+              <p>Search selected yoga therapy references.</p>
+            </div>
+            <label class="search">
+              <span>Search</span>
+              <input id="itemSearch" type="search" placeholder="breath, chair, back, calm" />
+            </label>
+          </div>
+
+          <div class="tier-tabs" id="tierTabs" role="tablist" aria-label="Tier filter"></div>
+
+          <div class="finder-layout">
+            <section class="result-column" aria-label="Filtered references">
+              <div class="result-bar">
+                <span id="resultCount">Loading...</span>
+                <button class="text-button" id="resetFilters" type="button">Reset</button>
+              </div>
+              <div class="item-list" id="itemList" aria-live="polite"></div>
+            </section>
+
+            <aside class="detail-panel" aria-label="Selected reference details">
+              <div class="detail-empty" id="detailEmpty">
+                <h3>Select an item</h3>
+                <p>Use the list to see intent, caution, tier, and the reference note.</p>
+              </div>
+              <div class="detail-card hidden" id="detailCard">
+                <span class="tier-pill" id="detailTier"></span>
+                <h3 id="detailTitle"></h3>
+                <p id="detailSummary"></p>
+                <dl>
+                  <div>
+                    <dt>Goal</dt>
+                    <dd id="detailGoal"></dd>
+                  </div>
+                  <div>
+                    <dt>Caution</dt>
+                    <dd id="detailCaution"></dd>
+                  </div>
+                  <div>
+                    <dt>Reference</dt>
+                    <dd><a id="detailLink" href="#">Open reference note</a></dd>
+                  </div>
+                </dl>
+                <button class="primary-action" id="addSelected" type="button">Add to sequence</button>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <section class="lower-grid">
+          <section class="panel" id="sequence">
+            <div class="panel-head compact">
+              <div>
+                <h2>Sequence</h2>
+                <p>Build a short practice plan from selected entries.</p>
+              </div>
+              <button class="text-button" id="clearSequence" type="button">Clear</button>
+            </div>
+            <div class="sequence-list" id="sequenceList"></div>
+          </section>
+
+          <section class="panel" id="knowledge">
+            <div class="panel-head compact">
+              <div>
+                <h2>Knowledge guide</h2>
+                <p>These links open notes stored in this repository.</p>
+              </div>
+            </div>
+            <div class="link-list">
+              <a href="knowledge/content/categories/psychological.md">Psychological category</a>
+              <a href="knowledge/content/categories/respiratory.md">Respiratory category</a>
+              <a href="knowledge/content/ailments/A004-back-pain.md">Back pain reference</a>
+              <a href="knowledge/content/ailments/A005-hypertension.md">Hypertension reference</a>
+            </div>
+          </section>
+        </section>
+
+        <section class="panel safety-panel" id="safety">
+          <div>
+            <p class="eyebrow">Safety framing</p>
+            <h2>Educational reference only.</h2>
+          </div>
+          <p>
+            Practices should be adapted to the person, context, current symptoms, medical
+            restrictions, and available support. Pain, dizziness, numbness, breath strain,
+            pressure, or distress are reasons to pause and reassess.
+          </p>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
