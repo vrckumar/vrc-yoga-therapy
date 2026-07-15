@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "item_section_maps.schema.json",
+  "title": "item_section_maps",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "map_id": {
+      "type": "string",
+      "pattern": "^(?:[A-Z]{3,6}[A-Z0-9]*\\d+|SPM:[A-Z0-9]+:[A-Z0-9]+:\\d+)$"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "section_id": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "map_id",
+    "item_type",
+    "item_id",
+    "section_id",
+    "role",
+    "notes",
+    "source_doc"
+  ]
+}

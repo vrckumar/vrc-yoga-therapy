@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "knowledge_version": "draft",
+  "source_format": "ndjson",
+  "source_sha256": "1ee3ac825bddb32a267b45b0bea8e34d4ef03ef7c3c7d42215a474f43383a555",
+  "files": [
+    {
+      "table_name": "practices",
+      "file_name": "practices.ndjson",
+      "primary_key": "practice_id",
+      "count": 165
+    },
+    {
+      "table_name": "lifestyles",
+      "file_name": "lifestyles.ndjson",
+      "primary_key": "lifestyle_id",
+      "count": 12
+    },
+    {
+      "table_name": "protocols",
+      "file_name": "protocols.ndjson",
+      "primary_key": "protocol_id",
+      "count": 18
+    },
+    {
+      "table_name": "protocol_items",
+      "file_name": "protocol_items.ndjson",
+      "primary_key": "protocol_item_id",
+      "count": 359
+    },
+    {
+      "table_name": "item_aliases",
+      "file_name": "item_aliases.ndjson",
+      "primary_key": "alias_id",
+      "count": 74
+    },
+    {
+      "table_name": "media_assets",
+      "file_name": "media_assets.ndjson",
+      "primary_key": "media_id",
+      "count": 8
+    },
+    {
+      "table_name": "practice_categories",
+      "file_name": "practice_categories.ndjson",
+      "primary_key": "category_id",
+      "count": 12
+    },
+    {
+      "table_name": "posture_types",
+      "file_name": "posture_types.ndjson",
+      "primary_key": "posture_type_id",
+      "count": 12
+    },
+    {
+      "table_name": "practice_subtypes",
+      "file_name": "practice_subtypes.ndjson",
+      "primary_key": "subtype_id",
+      "count": 21
+    },
+    {
+      "table_name": "ailments",
+      "file_name": "ailments.ndjson",
+      "primary_key": "ailment_id",
+      "count": 16
+    },
+    {
+      "table_name": "goals",
+      "file_name": "goals.ndjson",
+      "primary_key": "goal_id",
+      "count": 20
+    },
+    {
+      "table_name": "koshas",
+      "file_name": "koshas.ndjson",
+      "primary_key": "kosha_id",
+      "count": 5
+    },
+    {
+      "table_name": "sections",
+      "file_name": "sections.ndjson",
+      "primary_key": "section_id",
+      "count": 10
+    },
+    {
+      "table_name": "conditions",
+      "file_name": "conditions.ndjson",
+      "primary_key": "condition_id",
+      "count": 9
+    },
+    {
+      "table_name": "item_ailment_maps",
+      "file_name": "item_ailment_maps.ndjson",
+      "primary_key": "map_id",
+      "count": 319
+    },
+    {
+      "table_name": "item_goal_maps",
+      "file_name": "item_goal_maps.ndjson",
+      "primary_key": "map_id",
+      "count": 301
+    },
+    {
+      "table_name": "item_kosha_maps",
+      "file_name": "item_kosha_maps.ndjson",
+      "primary_key": "map_id",
+      "count": 208
+    },
+    {
+      "table_name": "item_section_maps",
+      "file_name": "item_section_maps.ndjson",
+      "primary_key": "map_id",
+      "count": 145
+    },
+    {
+      "table_name": "item_condition_maps",
+      "file_name": "item_condition_maps.ndjson",
+      "primary_key": "map_id",
+      "count": 22
+    }
+  ],
+  "id_prefixes": {
+    "practice_id": "P",
+    "variation_id": "VAR",
+    "variation_component_id": "VCMC",
+    "lifestyle_id": "LIF",
+    "protocol_id": "PR",
+    "alias_id": "ALS",
+    "media_id": "MEDC",
+    "category_id": "CAT",
+    "posture_type_id": "PT",
+    "subtype_id": "SUB",
+    "ailment_id": "A",
+    "goal_id": "G",
+    "kosha_id": "K",
+    "section_id": "S",
+    "condition_id": "C"
+  }
+}

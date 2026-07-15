@@ -1,0 +1,1111 @@
+{
+  "P0001": {
+    "type": "practice",
+    "file": "practices/P0001-toe-bending.md",
+    "tier": 2
+  },
+  "P0002": {
+    "type": "practice",
+    "file": "practices/P0002-passive-rotation-of-toes.md",
+    "tier": 2
+  },
+  "P0003": {
+    "type": "practice",
+    "file": "practices/P0003-ankle-bending.md",
+    "tier": 2
+  },
+  "P0004": {
+    "type": "practice",
+    "file": "practices/P0004-ankle-rotation.md",
+    "tier": 2
+  },
+  "P0005": {
+    "type": "practice",
+    "file": "practices/P0005-ankle-bending-and-rotation.md",
+    "tier": 2
+  },
+  "P0006": {
+    "type": "practice",
+    "file": "practices/P0006-patella-movement.md",
+    "tier": 2
+  },
+  "P0007": {
+    "type": "practice",
+    "file": "practices/P0007-patella-movement-and-kneecap-tightening.md",
+    "tier": 2
+  },
+  "P0008": {
+    "type": "practice",
+    "file": "practices/P0008-kneecap-tightening.md",
+    "tier": 2
+  },
+  "P0009": {
+    "type": "practice",
+    "file": "practices/P0009-knee-bending.md",
+    "tier": 2
+  },
+  "P0010": {
+    "type": "practice",
+    "file": "practices/P0010-knee-rotation.md",
+    "tier": 2
+  },
+  "P0011": {
+    "type": "practice",
+    "file": "practices/P0011-knee-bending-and-rotation.md",
+    "tier": 2
+  },
+  "P0012": {
+    "type": "practice",
+    "file": "practices/P0012-vertical-stretch-of-the-knee.md",
+    "tier": 2
+  },
+  "P0013": {
+    "type": "practice",
+    "file": "practices/P0013-feet-movement-inward-outward.md",
+    "tier": 2
+  },
+  "P0014": {
+    "type": "practice",
+    "file": "practices/P0014-loosening-of-fingers.md",
+    "tier": 2
+  },
+  "P0015": {
+    "type": "practice",
+    "file": "practices/P0015-loosening-of-wrists.md",
+    "tier": 2
+  },
+  "P0016": {
+    "type": "practice",
+    "file": "practices/P0016-wrist-movement.md",
+    "tier": 2
+  },
+  "P0017": {
+    "type": "practice",
+    "file": "practices/P0017-wrist-up-and-down.md",
+    "tier": 2
+  },
+  "P0018": {
+    "type": "practice",
+    "file": "practices/P0018-elbow-bending.md",
+    "tier": 2
+  },
+  "P0019": {
+    "type": "practice",
+    "file": "practices/P0019-loosening-of-elbow.md",
+    "tier": 2
+  },
+  "P0020": {
+    "type": "practice",
+    "file": "practices/P0020-shoulder-movement.md",
+    "tier": 2
+  },
+  "P0021": {
+    "type": "practice",
+    "file": "practices/P0021-shoulder-rotation.md",
+    "tier": 2
+  },
+  "P0022": {
+    "type": "practice",
+    "file": "practices/P0022-shoulder-blade-tightening.md",
+    "tier": 2
+  },
+  "P0023": {
+    "type": "practice",
+    "file": "practices/P0023-neck-forward-and-backward-movement.md",
+    "tier": 2
+  },
+  "P0024": {
+    "type": "practice",
+    "file": "practices/P0024-neck-twisting.md",
+    "tier": 2
+  },
+  "P0025": {
+    "type": "practice",
+    "file": "practices/P0025-neck-bending.md",
+    "tier": 2
+  },
+  "P0026": {
+    "type": "practice",
+    "file": "practices/P0026-neck-movement.md",
+    "tier": 2
+  },
+  "P0027": {
+    "type": "practice",
+    "file": "practices/P0027-neck-movement-and-rotation.md",
+    "tier": 2
+  },
+  "P0028": {
+    "type": "practice",
+    "file": "practices/P0028-side-movement-of-neck.md",
+    "tier": 2
+  },
+  "P0029": {
+    "type": "practice",
+    "file": "practices/P0029-neck-press-and-release.md",
+    "tier": 2
+  },
+  "P0030": {
+    "type": "practice",
+    "file": "practices/P0030-waist-rotation.md",
+    "tier": 2
+  },
+  "P0031": {
+    "type": "practice",
+    "file": "practices/P0031-hip-rotation.md",
+    "tier": 2
+  },
+  "P0032": {
+    "type": "practice",
+    "file": "practices/P0032-hip-twist.md",
+    "tier": 2
+  },
+  "P0033": {
+    "type": "practice",
+    "file": "practices/P0033-forward-and-backward-bending.md",
+    "tier": 2
+  },
+  "P0034": {
+    "type": "practice",
+    "file": "practices/P0034-spinal-twist.md",
+    "tier": 2
+  },
+  "P0035": {
+    "type": "practice",
+    "file": "practices/P0035-side-bending.md",
+    "tier": 2
+  },
+  "P0036": {
+    "type": "practice",
+    "file": "practices/P0036-jogging.md",
+    "tier": 2
+  },
+  "P0037": {
+    "type": "practice",
+    "file": "practices/P0037-jumping.md",
+    "tier": 2
+  },
+  "P0038": {
+    "type": "practice",
+    "file": "practices/P0038-crow-walking.md",
+    "tier": 2
+  },
+  "P0039": {
+    "type": "practice",
+    "file": "practices/P0039-padasanchalana.md",
+    "tier": 2
+  },
+  "P0040": {
+    "type": "practice",
+    "file": "practices/P0040-cycling.md",
+    "tier": 2
+  },
+  "P0041": {
+    "type": "practice",
+    "file": "practices/P0041-situp.md",
+    "tier": 2
+  },
+  "P0042": {
+    "type": "practice",
+    "file": "practices/P0042-straight-leg-raising.md",
+    "tier": 2
+  },
+  "P0043": {
+    "type": "practice",
+    "file": "practices/P0043-alternate-straight-leg-raising.md",
+    "tier": 2
+  },
+  "P0044": {
+    "type": "practice",
+    "file": "practices/P0044-alternate-and-both-leg-raising.md",
+    "tier": 2
+  },
+  "P0045": {
+    "type": "practice",
+    "file": "practices/P0045-side-leg-raising.md",
+    "tier": 2
+  },
+  "P0046": {
+    "type": "practice",
+    "file": "practices/P0046-half-butterfly.md",
+    "tier": 2
+  },
+  "P0047": {
+    "type": "practice",
+    "file": "practices/P0047-full-butterfly.md",
+    "tier": 2
+  },
+  "P0048": {
+    "type": "practice",
+    "file": "practices/P0048-hip-stretch.md",
+    "tier": 2
+  },
+  "P0049": {
+    "type": "practice",
+    "file": "practices/P0049-back-stretch-with-alternate-leg.md",
+    "tier": 2
+  },
+  "P0050": {
+    "type": "practice",
+    "file": "practices/P0050-knee-stretch.md",
+    "tier": 2
+  },
+  "P0051": {
+    "type": "practice",
+    "file": "practices/P0051-lumbar-stretch.md",
+    "tier": 2
+  },
+  "P0052": {
+    "type": "practice",
+    "file": "practices/P0052-lumbar-stretch-with-breathing.md",
+    "tier": 2
+  },
+  "P0053": {
+    "type": "practice",
+    "file": "practices/P0053-folded-leg-lumbar-stretch.md",
+    "tier": 2
+  },
+  "P0054": {
+    "type": "practice",
+    "file": "practices/P0054-cross-leg-lumbar-stretch.md",
+    "tier": 2
+  },
+  "P0055": {
+    "type": "practice",
+    "file": "practices/P0055-alternate-foot-knee-lumbar-stretch.md",
+    "tier": 2
+  },
+  "P0056": {
+    "type": "practice",
+    "file": "practices/P0056-dorsal-stretch.md",
+    "tier": 2
+  },
+  "P0057": {
+    "type": "practice",
+    "file": "practices/P0057-hands-in-out-breathing.md",
+    "tier": 2
+  },
+  "P0058": {
+    "type": "practice",
+    "file": "practices/P0058-hand-stretch-breathing.md",
+    "tier": 2
+  },
+  "P0059": {
+    "type": "practice",
+    "file": "practices/P0059-ankle-stretch-breathing.md",
+    "tier": 2
+  },
+  "P0060": {
+    "type": "practice",
+    "file": "practices/P0060-tiger-breathing.md",
+    "tier": 2
+  },
+  "P0061": {
+    "type": "practice",
+    "file": "practices/P0061-sasankasana-breathing.md",
+    "tier": 2
+  },
+  "P0062": {
+    "type": "practice",
+    "file": "practices/P0062-dog-breathing.md",
+    "tier": 2
+  },
+  "P0063": {
+    "type": "practice",
+    "file": "practices/P0063-rabbit-breathing.md",
+    "tier": 2
+  },
+  "P0064": {
+    "type": "practice",
+    "file": "practices/P0064-pavanamuktasana-breathing.md",
+    "tier": 2
+  },
+  "P0065": {
+    "type": "practice",
+    "file": "practices/P0065-setubandhasana-breathing.md",
+    "tier": 2
+  },
+  "P0066": {
+    "type": "practice",
+    "file": "practices/P0066-bhujangasana-breathing.md",
+    "tier": 2
+  },
+  "P0067": {
+    "type": "practice",
+    "file": "practices/P0067-salabhasana-breathing.md",
+    "tier": 2
+  },
+  "P0068": {
+    "type": "practice",
+    "file": "practices/P0068-vibhagiya-svasana.md",
+    "tier": 1
+  },
+  "P0069": {
+    "type": "practice",
+    "file": "practices/P0069-nadi-suddhi.md",
+    "tier": 1
+  },
+  "P0070": {
+    "type": "practice",
+    "file": "practices/P0070-nadi-shuddhi.md",
+    "tier": 1
+  },
+  "P0071": {
+    "type": "practice",
+    "file": "practices/P0071-bhramari.md",
+    "tier": 1
+  },
+  "P0072": {
+    "type": "practice",
+    "file": "practices/P0072-kapalabhati.md",
+    "tier": 1
+  },
+  "P0073": {
+    "type": "practice",
+    "file": "practices/P0073-surya-anuloma-viloma.md",
+    "tier": 1
+  },
+  "P0074": {
+    "type": "practice",
+    "file": "practices/P0074-cooling-pranayama.md",
+    "tier": 1
+  },
+  "P0075": {
+    "type": "practice",
+    "file": "practices/P0075-uddiyana-bandha.md",
+    "tier": 1
+  },
+  "P0076": {
+    "type": "practice",
+    "file": "practices/P0076-agnisara.md",
+    "tier": 1
+  },
+  "P0077": {
+    "type": "practice",
+    "file": "practices/P0077-ardha-chakrasana.md",
+    "tier": 1
+  },
+  "P0078": {
+    "type": "practice",
+    "file": "practices/P0078-ardhakati-chakrasana.md",
+    "tier": 1
+  },
+  "P0079": {
+    "type": "practice",
+    "file": "practices/P0079-padahastasana.md",
+    "tier": 1
+  },
+  "P0080": {
+    "type": "practice",
+    "file": "practices/P0080-ustrasana.md",
+    "tier": 1
+  },
+  "P0081": {
+    "type": "practice",
+    "file": "practices/P0081-matsyasana.md",
+    "tier": 1
+  },
+  "P0082": {
+    "type": "practice",
+    "file": "practices/P0082-viparita-karani.md",
+    "tier": 1
+  },
+  "P0083": {
+    "type": "practice",
+    "file": "practices/P0083-bhujangasana.md",
+    "tier": 1
+  },
+  "P0084": {
+    "type": "practice",
+    "file": "practices/P0084-dhanurasana.md",
+    "tier": 1
+  },
+  "P0085": {
+    "type": "practice",
+    "file": "practices/P0085-dhanurasana-swing.md",
+    "tier": 1
+  },
+  "P0086": {
+    "type": "practice",
+    "file": "practices/P0086-paschimottanasana.md",
+    "tier": 1
+  },
+  "P0087": {
+    "type": "practice",
+    "file": "practices/P0087-vakrasana.md",
+    "tier": 1
+  },
+  "P0088": {
+    "type": "practice",
+    "file": "practices/P0088-ardha-matsyendrasana.md",
+    "tier": 1
+  },
+  "P0089": {
+    "type": "practice",
+    "file": "practices/P0089-naukasana.md",
+    "tier": 1
+  },
+  "P0090": {
+    "type": "practice",
+    "file": "practices/P0090-pavanamuktasana.md",
+    "tier": 1
+  },
+  "P0091": {
+    "type": "practice",
+    "file": "practices/P0091-parivrtta-trikonasana.md",
+    "tier": 1
+  },
+  "P0092": {
+    "type": "practice",
+    "file": "practices/P0092-trataka.md",
+    "tier": 1
+  },
+  "P0093": {
+    "type": "practice",
+    "file": "practices/P0093-surya-namaskar.md",
+    "tier": 1
+  },
+  "P0094": {
+    "type": "practice",
+    "file": "practices/P0094-hastauttanasana.md",
+    "tier": 1
+  },
+  "P0095": {
+    "type": "practice",
+    "file": "practices/P0095-aswasanchalanasana.md",
+    "tier": 1
+  },
+  "P0096": {
+    "type": "practice",
+    "file": "practices/P0096-tulasana.md",
+    "tier": 2
+  },
+  "P0097": {
+    "type": "practice",
+    "file": "practices/P0097-sasankasana.md",
+    "tier": 1
+  },
+  "P0098": {
+    "type": "practice",
+    "file": "practices/P0098-sastanga-namaskara.md",
+    "tier": 1
+  },
+  "P0099": {
+    "type": "practice",
+    "file": "practices/P0099-parvatasana.md",
+    "tier": 1
+  },
+  "P0100": {
+    "type": "practice",
+    "file": "practices/P0100-salabhasana.md",
+    "tier": 1
+  },
+  "P0101": {
+    "type": "practice",
+    "file": "practices/P0101-setubandhasana.md",
+    "tier": 1
+  },
+  "P0102": {
+    "type": "practice",
+    "file": "practices/P0102-vrikshasana.md",
+    "tier": 1
+  },
+  "P0103": {
+    "type": "practice",
+    "file": "practices/P0103-garudasana.md",
+    "tier": 1
+  },
+  "P0104": {
+    "type": "practice",
+    "file": "practices/P0104-gomukasana.md",
+    "tier": 1
+  },
+  "P0105": {
+    "type": "practice",
+    "file": "practices/P0105-simha-mudra.md",
+    "tier": 1
+  },
+  "P0106": {
+    "type": "practice",
+    "file": "practices/P0106-supta-vajrasana.md",
+    "tier": 1
+  },
+  "P0107": {
+    "type": "practice",
+    "file": "practices/P0107-sarvangasana.md",
+    "tier": 1
+  },
+  "P0108": {
+    "type": "practice",
+    "file": "practices/P0108-halasana.md",
+    "tier": 1
+  },
+  "P0109": {
+    "type": "practice",
+    "file": "practices/P0109-virabhadrasana.md",
+    "tier": 1
+  },
+  "P0110": {
+    "type": "practice",
+    "file": "practices/P0110-prasarita-padottanasana.md",
+    "tier": 1
+  },
+  "P0111": {
+    "type": "practice",
+    "file": "practices/P0111-natarajasana.md",
+    "tier": 1
+  },
+  "P0112": {
+    "type": "practice",
+    "file": "practices/P0112-parivritta-trikonasana.md",
+    "tier": 1
+  },
+  "P0113": {
+    "type": "practice",
+    "file": "practices/P0113-loosen-yourself-sequence.md",
+    "tier": 1
+  },
+  "P0114": {
+    "type": "practice",
+    "file": "practices/P0114-shithilikarana-vyayama.md",
+    "tier": 1
+  },
+  "P0115": {
+    "type": "practice",
+    "file": "practices/P0115-jala-neti.md",
+    "tier": 1
+  },
+  "P0116": {
+    "type": "practice",
+    "file": "practices/P0116-sutra-neti.md",
+    "tier": 2
+  },
+  "P0117": {
+    "type": "practice",
+    "file": "practices/P0117-vamana-dhauti.md",
+    "tier": 1
+  },
+  "P0118": {
+    "type": "practice",
+    "file": "practices/P0118-laghu-shankhaprakshalana.md",
+    "tier": 1
+  },
+  "P0119": {
+    "type": "practice",
+    "file": "practices/P0119-om-meditation.md",
+    "tier": 2
+  },
+  "P0120": {
+    "type": "practice",
+    "file": "practices/P0120-meditation.md",
+    "tier": 2
+  },
+  "P0121": {
+    "type": "practice",
+    "file": "practices/P0121-cyclic-meditation.md",
+    "tier": 1
+  },
+  "P0122": {
+    "type": "practice",
+    "file": "practices/P0122-devotional-music.md",
+    "tier": 2
+  },
+  "P0123": {
+    "type": "practice",
+    "file": "practices/P0123-drt.md",
+    "tier": 2
+  },
+  "P0124": {
+    "type": "practice",
+    "file": "practices/P0124-qrt.md",
+    "tier": 2
+  },
+  "P0125": {
+    "type": "practice",
+    "file": "practices/P0125-irt.md",
+    "tier": 2
+  },
+  "P0126": {
+    "type": "practice",
+    "file": "practices/P0126-msrt.md",
+    "tier": 2
+  },
+  "P0127": {
+    "type": "practice",
+    "file": "practices/P0127-pet.md",
+    "tier": 2
+  },
+  "P0128": {
+    "type": "practice",
+    "file": "practices/P0128-memt.md",
+    "tier": 2
+  },
+  "P0129": {
+    "type": "practice",
+    "file": "practices/P0129-mirt.md",
+    "tier": 2
+  },
+  "P0130": {
+    "type": "practice",
+    "file": "practices/P0130-visak.md",
+    "tier": 2
+  },
+  "P0131": {
+    "type": "practice",
+    "file": "practices/P0131-anams.md",
+    "tier": 2
+  },
+  "P0132": {
+    "type": "practice",
+    "file": "practices/P0132-chair-neck-movement.md",
+    "tier": 2
+  },
+  "P0133": {
+    "type": "practice",
+    "file": "practices/P0133-chair-neck-movement-in-vajrasana.md",
+    "tier": 2
+  },
+  "P0134": {
+    "type": "practice",
+    "file": "practices/P0134-chair-sasankasana-movement.md",
+    "tier": 2
+  },
+  "P0135": {
+    "type": "practice",
+    "file": "practices/P0135-chair-relaxation.md",
+    "tier": 2
+  },
+  "P0136": {
+    "type": "practice",
+    "file": "practices/P0136-chair-ardha-chakrasana-and-padahastasana.md",
+    "tier": 2
+  },
+  "P0137": {
+    "type": "practice",
+    "file": "practices/P0137-anguli-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0138": {
+    "type": "practice",
+    "file": "practices/P0138-kara-tala-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0139": {
+    "type": "practice",
+    "file": "practices/P0139-kara-prista-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0140": {
+    "type": "practice",
+    "file": "practices/P0140-mani-bandha-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0141": {
+    "type": "practice",
+    "file": "practices/P0141-kaphoni-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0142": {
+    "type": "practice",
+    "file": "practices/P0142-bhujabanda-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0143": {
+    "type": "practice",
+    "file": "practices/P0143-griva-sakti-vikasaka.md",
+    "tier": 1
+  },
+  "P0144": {
+    "type": "practice",
+    "file": "practices/P0144-tongue-movement.md",
+    "tier": 2
+  },
+  "P0145": {
+    "type": "practice",
+    "file": "practices/P0145-tongue-massaging.md",
+    "tier": 2
+  },
+  "P0146": {
+    "type": "practice",
+    "file": "practices/P0146-lip-stretch.md",
+    "tier": 2
+  },
+  "P0147": {
+    "type": "practice",
+    "file": "practices/P0147-head-rolling.md",
+    "tier": 2
+  },
+  "P0148": {
+    "type": "practice",
+    "file": "practices/P0148-alternate-bhujangasana-and-parvatasana.md",
+    "tier": 1
+  },
+  "P0149": {
+    "type": "practice",
+    "file": "practices/P0149-parivrtta-trikonasana-stretch.md",
+    "tier": 1
+  },
+  "P0150": {
+    "type": "practice",
+    "file": "practices/P0150-paschimatasana-and-halasana-combination.md",
+    "tier": 1
+  },
+  "P0151": {
+    "type": "practice",
+    "file": "practices/P0151-butterfly.md",
+    "tier": 1
+  },
+  "P0152": {
+    "type": "practice",
+    "file": "practices/P0152-trikonasana.md",
+    "tier": 1
+  },
+  "P0153": {
+    "type": "practice",
+    "file": "practices/P0153-reiki-full-body-relaxation.md",
+    "tier": 2
+  },
+  "P0154": {
+    "type": "practice",
+    "file": "practices/P0154-vajrasana.md",
+    "tier": 1
+  },
+  "P0155": {
+    "type": "practice",
+    "file": "practices/P0155-parsva-konasana.md",
+    "tier": 1
+  },
+  "P0156": {
+    "type": "practice",
+    "file": "practices/P0156-hamsasana.md",
+    "tier": 1
+  },
+  "P0157": {
+    "type": "practice",
+    "file": "practices/P0157-mayurasana.md",
+    "tier": 1
+  },
+  "P0158": {
+    "type": "practice",
+    "file": "practices/P0158-chakrasana.md",
+    "tier": 1
+  },
+  "P0159": {
+    "type": "practice",
+    "file": "practices/P0159-ardha-sirsasana.md",
+    "tier": 1
+  },
+  "P0160": {
+    "type": "practice",
+    "file": "practices/P0160-sirsasana.md",
+    "tier": 1
+  },
+  "P0161": {
+    "type": "practice",
+    "file": "practices/P0161-straight-leg-raise-breathing.md",
+    "tier": 2
+  },
+  "P0162": {
+    "type": "practice",
+    "file": "practices/P0162-bhastrika.md",
+    "tier": 1
+  },
+  "P0163": {
+    "type": "practice",
+    "file": "practices/P0163-mukha-dhouti.md",
+    "tier": 2
+  },
+  "P0164": {
+    "type": "practice",
+    "file": "practices/P0164-nadanusandana.md",
+    "tier": 2
+  },
+  "P0165": {
+    "type": "practice",
+    "file": "practices/P0165-smet.md",
+    "tier": 2
+  },
+  "P0166": {
+    "type": "practice",
+    "file": "practices/P0166-padmasana.md",
+    "tier": 1
+  },
+  "P0167": {
+    "type": "practice",
+    "file": "practices/P0167-sukhasana.md",
+    "tier": 1
+  },
+  "P0168": {
+    "type": "practice",
+    "file": "practices/P0168-nasika-mudra.md",
+    "tier": 1
+  },
+  "P0169": {
+    "type": "practice",
+    "file": "practices/P0169-savasana.md",
+    "tier": 1
+  },
+  "PRACTICE-INDEX": {
+    "type": "index",
+    "file": "practices/index.md"
+  },
+  "A-AD": {
+    "type": "ailment",
+    "file": "ailments/A-AD-autonomic-dysfunction.md",
+    "tier": 2
+  },
+  "A-ADD": {
+    "type": "ailment",
+    "file": "ailments/A-ADD-addisons.md",
+    "tier": 2
+  },
+  "A-AR": {
+    "type": "ailment",
+    "file": "ailments/A-AR-allergic-rhinitis.md",
+    "tier": 2
+  },
+  "A-CAD": {
+    "type": "ailment",
+    "file": "ailments/A-CAD-substance-dependence.md",
+    "tier": 2
+  },
+  "A-COPD": {
+    "type": "ailment",
+    "file": "ailments/A-COPD-chronic-obstructive-pulmonary.md",
+    "tier": 2
+  },
+  "A-CTD": {
+    "type": "ailment",
+    "file": "ailments/A-CTD-connective-tissue.md",
+    "tier": 2
+  },
+  "A-CUSH": {
+    "type": "ailment",
+    "file": "ailments/A-CUSH-cushings.md",
+    "tier": 2
+  },
+  "A-CVA": {
+    "type": "ailment",
+    "file": "ailments/A-CVA-stroke.md",
+    "tier": 2
+  },
+  "A-ED": {
+    "type": "ailment",
+    "file": "ailments/A-ED-eating-disorders.md",
+    "tier": 2
+  },
+  "A-EPI": {
+    "type": "ailment",
+    "file": "ailments/A-EPI-epilepsy.md",
+    "tier": 2
+  },
+  "A-GER": {
+    "type": "ailment",
+    "file": "ailments/A-GER-geriatric.md",
+    "tier": 2
+  },
+  "A-GTN": {
+    "type": "ailment",
+    "file": "ailments/A-GTN-goiters.md",
+    "tier": 2
+  },
+  "A-HEP": {
+    "type": "ailment",
+    "file": "ailments/A-HEP-hepatitis.md",
+    "tier": 2
+  },
+  "A-HYPER": {
+    "type": "ailment",
+    "file": "ailments/A-HYPER-hyperthyroidism.md",
+    "tier": 2
+  },
+  "A-HYPO": {
+    "type": "ailment",
+    "file": "ailments/A-HYPO-hypothyroidism.md",
+    "tier": 2
+  },
+  "A-IHD": {
+    "type": "ailment",
+    "file": "ailments/A-IHD-ischemic-heart-disease.md",
+    "tier": 2
+  },
+  "A-IUGR": {
+    "type": "ailment",
+    "file": "ailments/A-IUGR-iugr.md",
+    "tier": 2
+  },
+  "A-MD": {
+    "type": "ailment",
+    "file": "ailments/A-MD-muscular-dystrophy.md",
+    "tier": 2
+  },
+  "A-MD2": {
+    "type": "ailment",
+    "file": "ailments/A-MD2-menstrual-disorders.md",
+    "tier": 2
+  },
+  "A-MIG": {
+    "type": "ailment",
+    "file": "ailments/A-MIG-migraine.md",
+    "tier": 2
+  },
+  "A-MR": {
+    "type": "ailment",
+    "file": "ailments/A-MR-intellectual-disability.md",
+    "tier": 2
+  },
+  "A-MS": {
+    "type": "ailment",
+    "file": "ailments/A-MS-multiple-sclerosis.md",
+    "tier": 2
+  },
+  "A-OA": {
+    "type": "ailment",
+    "file": "ailments/A-OA-osteoarthritis.md",
+    "tier": 1
+  },
+  "A-OCD": {
+    "type": "ailment",
+    "file": "ailments/A-OCD-ocd.md",
+    "tier": 2
+  },
+  "A-ONC": {
+    "type": "ailment",
+    "file": "ailments/A-ONC-cancer.md",
+    "tier": 2
+  },
+  "A-PD": {
+    "type": "ailment",
+    "file": "ailments/A-PD-parkinsons.md",
+    "tier": 2
+  },
+  "A-PHO": {
+    "type": "ailment",
+    "file": "ailments/A-PHO-phobias.md",
+    "tier": 2
+  },
+  "A-PIH": {
+    "type": "ailment",
+    "file": "ailments/A-PIH-pregnancy-induced-hypertension.md",
+    "tier": 1
+  },
+  "A-PVD": {
+    "type": "ailment",
+    "file": "ailments/A-PVD-peripheral-vascular-disease.md",
+    "tier": 2
+  },
+  "A-REHAB": {
+    "type": "ailment",
+    "file": "ailments/A-REHAB-rehabilitation.md",
+    "tier": 2
+  },
+  "A-REV": {
+    "type": "ailment",
+    "file": "ailments/A-REV-refractory-errors-vision.md",
+    "tier": 2
+  },
+  "A-SA": {
+    "type": "ailment",
+    "file": "ailments/A-SA-sleep-apnea.md",
+    "tier": 2
+  },
+  "A-SCH": {
+    "type": "ailment",
+    "file": "ailments/A-SCH-schizophrenia.md",
+    "tier": 2
+  },
+  "A-TB": {
+    "type": "ailment",
+    "file": "ailments/A-TB-tuberculosis.md",
+    "tier": 2
+  },
+  "A-TH": {
+    "type": "ailment",
+    "file": "ailments/A-TH-tension-headache.md",
+    "tier": 2
+  },
+  "A001": {
+    "type": "ailment",
+    "file": "ailments/A001-diabetes-mellitus.md",
+    "tier": 1
+  },
+  "A002": {
+    "type": "ailment",
+    "file": "ailments/A002-obesity.md",
+    "tier": 1
+  },
+  "A003": {
+    "type": "ailment",
+    "file": "ailments/A003-rheumatoid-arthritis.md",
+    "tier": 1
+  },
+  "A004": {
+    "type": "ailment",
+    "file": "ailments/A004-back-pain.md",
+    "tier": 1
+  },
+  "A005": {
+    "type": "ailment",
+    "file": "ailments/A005-hypertension.md",
+    "tier": 1
+  },
+  "A007": {
+    "type": "ailment",
+    "file": "ailments/A007-bronchial-asthma.md",
+    "tier": 1
+  },
+  "A008": {
+    "type": "ailment",
+    "file": "ailments/A008-anxiety-depression.md",
+    "tier": 1
+  },
+  "A014": {
+    "type": "ailment",
+    "file": "ailments/A014-acid-peptic-disease.md",
+    "tier": 1
+  },
+  "A015": {
+    "type": "ailment",
+    "file": "ailments/A015-irritable-bowel-syndrome.md",
+    "tier": 1
+  },
+  "CAT-cardiovascular": {
+    "type": "category",
+    "file": "categories/cardiovascular.md",
+    "tier": 1
+  },
+  "CAT-digestive": {
+    "type": "category",
+    "file": "categories/digestive.md",
+    "tier": 1
+  },
+  "CAT-endocrine-metabolic": {
+    "type": "category",
+    "file": "categories/endocrine-metabolic.md",
+    "tier": 1
+  },
+  "CAT-neurological": {
+    "type": "category",
+    "file": "categories/neurological.md",
+    "tier": 1
+  },
+  "CAT-psychological": {
+    "type": "category",
+    "file": "categories/psychological.md",
+    "tier": 1
+  },
+  "CAT-rehabilitation": {
+    "type": "category",
+    "file": "categories/rehabilitation.md",
+    "tier": 1
+  },
+  "CAT-respiratory": {
+    "type": "category",
+    "file": "categories/respiratory.md",
+    "tier": 1
+  },
+  "CAT-rheumatology": {
+    "type": "category",
+    "file": "categories/rheumatology.md",
+    "tier": 1
+  }
+}

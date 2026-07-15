@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "practice_subtypes.schema.json",
+  "title": "practice_subtypes",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "subtype_id": {
+      "type": "string",
+      "pattern": "^SUB\\d{2,}$"
+    },
+    "subtype_name": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "subtype_id",
+    "subtype_name",
+    "meaning_function"
+  ]
+}

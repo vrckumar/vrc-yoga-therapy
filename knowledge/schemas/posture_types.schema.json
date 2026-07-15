@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "posture_types.schema.json",
+  "title": "posture_types",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "posture_type_id": {
+      "type": "string",
+      "pattern": "^PT\\d{2,}$"
+    },
+    "posture_type": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "posture_type_id",
+    "posture_type",
+    "meaning_function"
+  ]
+}

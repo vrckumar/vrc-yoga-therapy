@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sections.schema.json",
+  "title": "sections",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "section_id": {
+      "type": "string",
+      "pattern": "^S\\d{3,}$"
+    },
+    "section_name": {
+      "type": "string"
+    },
+    "focus_area": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "section_id",
+    "section_name",
+    "focus_area",
+    "meaning_function",
+    "source_doc"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "item_condition_maps.schema.json",
+  "title": "item_condition_maps",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "map_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{3,6}[A-Z0-9]*\\d+$"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "condition_id": {
+      "type": "string"
+    },
+    "relation_type": {
+      "type": "string",
+      "enum": [
+        "Contraindication",
+        "Caution",
+        "Supportive"
+      ]
+    },
+    "severity": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Moderate",
+        "High",
+        ""
+      ]
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Primary",
+        "Supportive",
+        ""
+      ]
+    },
+    "warning_message": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "map_id",
+    "item_type",
+    "item_id",
+    "condition_id",
+    "relation_type",
+    "severity",
+    "priority",
+    "warning_message",
+    "notes",
+    "source_doc"
+  ]
+}

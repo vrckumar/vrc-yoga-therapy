@@ -1,0 +1,359 @@
+{"protocol_item_id":"PIM01201","protocol_id":"PR012","item_type":"Practice","item_id":"P0125","sequence_order":1,"dose_or_duration":"2 min","notes":"IRT"}
+{"protocol_item_id":"PIM01202","protocol_id":"PR012","item_type":"Practice","item_id":"P0124","sequence_order":2,"dose_or_duration":"3 min","notes":"QRT"}
+{"protocol_item_id":"PIM01203","protocol_id":"PR012","item_type":"Practice","item_id":"P0123","sequence_order":3,"dose_or_duration":"7 min","notes":"DRT"}
+{"protocol_item_id":"PIM01204","protocol_id":"PR012","item_type":"Practice","item_id":"P0074","sequence_order":4,"dose_or_duration":"2 min","notes":"Cooling pranayama"}
+{"protocol_item_id":"PIM01205","protocol_id":"PR012","item_type":"Practice","item_id":"P0071","sequence_order":5,"dose_or_duration":"2 min","notes":"Bhramari"}
+{"protocol_item_id":"PIM01206","protocol_id":"PR012","item_type":"Practice","item_id":"P0069","sequence_order":6,"dose_or_duration":"","notes":"Nadisuddhi"}
+{"protocol_item_id":"PIM01207","protocol_id":"PR012","item_type":"Practice","item_id":"P0164","sequence_order":7,"dose_or_duration":"","notes":"Nadanusandana"}
+{"protocol_item_id":"PIM01208","protocol_id":"PR012","item_type":"Practice","item_id":"P0119","sequence_order":8,"dose_or_duration":"13 min","notes":"Om Meditation"}
+{"protocol_item_id":"PIM01301","protocol_id":"PR013","item_type":"Practice","item_id":"P0057","sequence_order":1,"dose_or_duration":"","notes":"Hands In and Out Breathing"}
+{"protocol_item_id":"PIM01302","protocol_id":"PR013","item_type":"Practice","item_id":"P0058","sequence_order":2,"dose_or_duration":"","notes":"Hand Stretch Breathing"}
+{"protocol_item_id":"PIM01303","protocol_id":"PR013","item_type":"Practice","item_id":"P0060","sequence_order":3,"dose_or_duration":"","notes":"Tiger Breathing"}
+{"protocol_item_id":"PIM01304","protocol_id":"PR013","item_type":"Practice","item_id":"P0061","sequence_order":4,"dose_or_duration":"","notes":"Sasankasana Breathing"}
+{"protocol_item_id":"PIM01305","protocol_id":"PR013","item_type":"Practice","item_id":"P0068","sequence_order":5,"dose_or_duration":"","notes":"Sectional Breathing"}
+{"protocol_item_id":"PIM01306","protocol_id":"PR013","item_type":"Practice","item_id":"P0069","sequence_order":6,"dose_or_duration":"","notes":"Nadisuddhi"}
+{"protocol_item_id":"PIM01307","protocol_id":"PR013","item_type":"Practice","item_id":"P0071","sequence_order":7,"dose_or_duration":"","notes":"Bhramari"}
+{"protocol_item_id":"PIM01308","protocol_id":"PR013","item_type":"Practice","item_id":"P0163","sequence_order":8,"dose_or_duration":"","notes":"Mukha Dhouti to relax"}
+{"protocol_item_id":"PIM01401","protocol_id":"PR014","item_type":"Practice","item_id":"P0123","sequence_order":1,"dose_or_duration":"","notes":"DRT"}
+{"protocol_item_id":"PIM01402","protocol_id":"PR014","item_type":"Practice","item_id":"P0072","sequence_order":2,"dose_or_duration":"","notes":"Kapalabhati"}
+{"protocol_item_id":"PIM01403","protocol_id":"PR014","item_type":"Practice","item_id":"P0068","sequence_order":3,"dose_or_duration":"","notes":"Vibhagiya Pranayama"}
+{"protocol_item_id":"PIM01404","protocol_id":"PR014","item_type":"Practice","item_id":"P0069","sequence_order":4,"dose_or_duration":"","notes":"Nadisuddhi"}
+{"protocol_item_id":"PIM01405","protocol_id":"PR014","item_type":"Practice","item_id":"P0163","sequence_order":5,"dose_or_duration":"","notes":"Mukha Dhouti"}
+{"protocol_item_id":"PIM01406","protocol_id":"PR014","item_type":"Practice","item_id":"P0164","sequence_order":6,"dose_or_duration":"","notes":"Nadanusandana"}
+{"protocol_item_id":"PIM01407","protocol_id":"PR014","item_type":"Practice","item_id":"P0119","sequence_order":7,"dose_or_duration":"","notes":"Om Meditation"}
+{"protocol_item_id":"PIM01408","protocol_id":"PR014","item_type":"Practice","item_id":"P0121","sequence_order":8,"dose_or_duration":"","notes":"Cyclic Meditation"}
+{"protocol_item_id":"PIM01409","protocol_id":"PR014","item_type":"Practice","item_id":"P0129","sequence_order":9,"dose_or_duration":"","notes":"MIRT"}
+{"protocol_item_id":"PIM01501","protocol_id":"PR015","item_type":"Practice","item_id":"P0060","sequence_order":1,"dose_or_duration":"","notes":"Tiger Breathing"}
+{"protocol_item_id":"PIM01502","protocol_id":"PR015","item_type":"Practice","item_id":"P0161","sequence_order":2,"dose_or_duration":"","notes":"Straight Leg Raise Breathing"}
+{"protocol_item_id":"PIM01503","protocol_id":"PR015","item_type":"Practice","item_id":"P0064","sequence_order":3,"dose_or_duration":"","notes":"Pavanamuktasana Breathing"}
+{"protocol_item_id":"PIM01504","protocol_id":"PR015","item_type":"Practice","item_id":"P0090","sequence_order":4,"dose_or_duration":"","notes":"Pavanamuktasana"}
+{"protocol_item_id":"PIM01505","protocol_id":"PR015","item_type":"Practice","item_id":"P0124","sequence_order":5,"dose_or_duration":"","notes":"QRT"}
+{"protocol_item_id":"PIM01506","protocol_id":"PR015","item_type":"Practice","item_id":"P0072","sequence_order":6,"dose_or_duration":"","notes":"Kapalabhati"}
+{"protocol_item_id":"PIM01507","protocol_id":"PR015","item_type":"Practice","item_id":"P0068","sequence_order":7,"dose_or_duration":"","notes":"Vibhagiya Pranayama"}
+{"protocol_item_id":"PIM01508","protocol_id":"PR015","item_type":"Practice","item_id":"P0074","sequence_order":8,"dose_or_duration":"","notes":"Cooling Pranayama"}
+{"protocol_item_id":"PIM01509","protocol_id":"PR015","item_type":"Practice","item_id":"P0071","sequence_order":9,"dose_or_duration":"","notes":"Bhramari"}
+{"protocol_item_id":"PIM01510","protocol_id":"PR015","item_type":"Practice","item_id":"P0119","sequence_order":10,"dose_or_duration":"","notes":"Om Meditation"}
+{"protocol_item_id":"PIM01601","protocol_id":"PR016","item_type":"Practice","item_id":"P0060","sequence_order":1,"dose_or_duration":"","notes":"Tiger Breathing"}
+{"protocol_item_id":"PIM01602","protocol_id":"PR016","item_type":"Practice","item_id":"P0161","sequence_order":2,"dose_or_duration":"","notes":"Straight Leg Raise Breathing"}
+{"protocol_item_id":"PIM01603","protocol_id":"PR016","item_type":"Practice","item_id":"P0125","sequence_order":3,"dose_or_duration":"","notes":"IRT"}
+{"protocol_item_id":"PIM01604","protocol_id":"PR016","item_type":"Practice","item_id":"P0064","sequence_order":4,"dose_or_duration":"","notes":"Pavanamuktasana Breathing"}
+{"protocol_item_id":"PIM01605","protocol_id":"PR016","item_type":"Practice","item_id":"P0124","sequence_order":5,"dose_or_duration":"","notes":"QRT"}
+{"protocol_item_id":"PIM01606","protocol_id":"PR016","item_type":"Practice","item_id":"P0068","sequence_order":6,"dose_or_duration":"","notes":"Vibhagiya Pranayama"}
+{"protocol_item_id":"PIM01607","protocol_id":"PR016","item_type":"Practice","item_id":"P0074","sequence_order":7,"dose_or_duration":"","notes":"Cooling Pranayama"}
+{"protocol_item_id":"PIM01608","protocol_id":"PR016","item_type":"Practice","item_id":"P0071","sequence_order":8,"dose_or_duration":"","notes":"Bhramari"}
+{"protocol_item_id":"PIM01609","protocol_id":"PR016","item_type":"Practice","item_id":"P0119","sequence_order":9,"dose_or_duration":"","notes":"Om Meditation"}
+{"protocol_item_id":"PIM01701","protocol_id":"PR017","item_type":"Practice","item_id":"P0057","sequence_order":1,"dose_or_duration":"","notes":"Hands In and Out Breathing"}
+{"protocol_item_id":"PIM01702","protocol_id":"PR017","item_type":"Practice","item_id":"P0060","sequence_order":2,"dose_or_duration":"","notes":"Tiger Breathing"}
+{"protocol_item_id":"PIM01703","protocol_id":"PR017","item_type":"Practice","item_id":"P0161","sequence_order":3,"dose_or_duration":"","notes":"Straight Leg Raise Breathing"}
+{"protocol_item_id":"PIM01704","protocol_id":"PR017","item_type":"Practice","item_id":"P0061","sequence_order":4,"dose_or_duration":"","notes":"Sasankasana Breathing"}
+{"protocol_item_id":"PIM01705","protocol_id":"PR017","item_type":"Practice","item_id":"P0125","sequence_order":5,"dose_or_duration":"","notes":"IRT"}
+{"protocol_item_id":"PIM01706","protocol_id":"PR017","item_type":"Practice","item_id":"P0064","sequence_order":6,"dose_or_duration":"","notes":"Pavanamuktasana Breathing"}
+{"protocol_item_id":"PIM01707","protocol_id":"PR017","item_type":"Practice","item_id":"P0124","sequence_order":7,"dose_or_duration":"","notes":"QRT"}
+{"protocol_item_id":"PIM01708","protocol_id":"PR017","item_type":"Practice","item_id":"P0068","sequence_order":8,"dose_or_duration":"","notes":"Vibhagiya Pranayama"}
+{"protocol_item_id":"PIM01709","protocol_id":"PR017","item_type":"Practice","item_id":"P0071","sequence_order":9,"dose_or_duration":"","notes":"Bhramari"}
+{"protocol_item_id":"PIM01710","protocol_id":"PR017","item_type":"Practice","item_id":"P0119","sequence_order":10,"dose_or_duration":"","notes":"Om Meditation"}
+{"protocol_item_id":"PIM01801","protocol_id":"PR018","item_type":"Practice","item_id":"P0060","sequence_order":1,"dose_or_duration":"","notes":"Tiger Breathing"}
+{"protocol_item_id":"PIM01802","protocol_id":"PR018","item_type":"Practice","item_id":"P0161","sequence_order":2,"dose_or_duration":"","notes":"Straight Leg Raise Breathing"}
+{"protocol_item_id":"PIM01803","protocol_id":"PR018","item_type":"Practice","item_id":"P0064","sequence_order":3,"dose_or_duration":"","notes":"Pavanamuktasana Breathing"}
+{"protocol_item_id":"PIM01804","protocol_id":"PR018","item_type":"Practice","item_id":"P0090","sequence_order":4,"dose_or_duration":"","notes":"Pavanamuktasana"}
+{"protocol_item_id":"PIM01805","protocol_id":"PR018","item_type":"Practice","item_id":"P0072","sequence_order":5,"dose_or_duration":"","notes":"Kapalabhati"}
+{"protocol_item_id":"PIM01806","protocol_id":"PR018","item_type":"Practice","item_id":"P0124","sequence_order":6,"dose_or_duration":"","notes":"QRT"}
+{"protocol_item_id":"PIM01807","protocol_id":"PR018","item_type":"Practice","item_id":"P0068","sequence_order":7,"dose_or_duration":"","notes":"Vibhagiya Pranayama"}
+{"protocol_item_id":"PIM01808","protocol_id":"PR018","item_type":"Practice","item_id":"P0119","sequence_order":8,"dose_or_duration":"","notes":"Om Meditation"}
+{"protocol_item_id":"PR001:Practice:P0001:17","protocol_id":"PR001","item_type":"Practice","item_id":"P0001","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0005:15","protocol_id":"PR001","item_type":"Practice","item_id":"P0005","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0007:7","protocol_id":"PR001","item_type":"Practice","item_id":"P0007","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0011:13","protocol_id":"PR001","item_type":"Practice","item_id":"P0011","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0014:3","protocol_id":"PR001","item_type":"Practice","item_id":"P0014","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0016:4","protocol_id":"PR001","item_type":"Practice","item_id":"P0016","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0018:5","protocol_id":"PR001","item_type":"Practice","item_id":"P0018","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0020:6","protocol_id":"PR001","item_type":"Practice","item_id":"P0020","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0023:1","protocol_id":"PR001","item_type":"Practice","item_id":"P0023","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0024:2","protocol_id":"PR001","item_type":"Practice","item_id":"P0024","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0030:8","protocol_id":"PR001","item_type":"Practice","item_id":"P0030","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0033:34","protocol_id":"PR001","item_type":"Practice","item_id":"P0033","sequence_order":34,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0034:36","protocol_id":"PR001","item_type":"Practice","item_id":"P0034","sequence_order":36,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0035:38","protocol_id":"PR001","item_type":"Practice","item_id":"P0035","sequence_order":38,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0036:31","protocol_id":"PR001","item_type":"Practice","item_id":"P0036","sequence_order":31,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0042:27","protocol_id":"PR001","item_type":"Practice","item_id":"P0042","sequence_order":27,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0057:19","protocol_id":"PR001","item_type":"Practice","item_id":"P0057","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0058:21","protocol_id":"PR001","item_type":"Practice","item_id":"P0058","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0059:23","protocol_id":"PR001","item_type":"Practice","item_id":"P0059","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0060:20","protocol_id":"PR001","item_type":"Practice","item_id":"P0060","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0061:25","protocol_id":"PR001","item_type":"Practice","item_id":"P0061","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0075:32","protocol_id":"PR001","item_type":"Practice","item_id":"P0075","sequence_order":32,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0076:33","protocol_id":"PR001","item_type":"Practice","item_id":"P0076","sequence_order":33,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0077:11","protocol_id":"PR001","item_type":"Practice","item_id":"P0077","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0079:10","protocol_id":"PR001","item_type":"Practice","item_id":"P0079","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0080:9","protocol_id":"PR001","item_type":"Practice","item_id":"P0080","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0081:12","protocol_id":"PR001","item_type":"Practice","item_id":"P0081","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0082:16","protocol_id":"PR001","item_type":"Practice","item_id":"P0082","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0083:22","protocol_id":"PR001","item_type":"Practice","item_id":"P0083","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0084:24","protocol_id":"PR001","item_type":"Practice","item_id":"P0084","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0086:26","protocol_id":"PR001","item_type":"Practice","item_id":"P0086","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0087:28","protocol_id":"PR001","item_type":"Practice","item_id":"P0087","sequence_order":28,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0088:30","protocol_id":"PR001","item_type":"Practice","item_id":"P0088","sequence_order":30,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0089:29","protocol_id":"PR001","item_type":"Practice","item_id":"P0089","sequence_order":29,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0090:35","protocol_id":"PR001","item_type":"Practice","item_id":"P0090","sequence_order":35,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0091:37","protocol_id":"PR001","item_type":"Practice","item_id":"P0091","sequence_order":37,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0092:39","protocol_id":"PR001","item_type":"Practice","item_id":"P0092","sequence_order":39,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0093:14","protocol_id":"PR001","item_type":"Practice","item_id":"P0093","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR001:Practice:P0123:18","protocol_id":"PR001","item_type":"Practice","item_id":"P0123","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0033:8","protocol_id":"PR002","item_type":"Practice","item_id":"P0033","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0034:10","protocol_id":"PR002","item_type":"Practice","item_id":"P0034","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0035:9","protocol_id":"PR002","item_type":"Practice","item_id":"P0035","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0036:7","protocol_id":"PR002","item_type":"Practice","item_id":"P0036","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0040:18","protocol_id":"PR002","item_type":"Practice","item_id":"P0040","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0044:15","protocol_id":"PR002","item_type":"Practice","item_id":"P0044","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0045:17","protocol_id":"PR002","item_type":"Practice","item_id":"P0045","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0047:14","protocol_id":"PR002","item_type":"Practice","item_id":"P0047","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0048:12","protocol_id":"PR002","item_type":"Practice","item_id":"P0048","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0049:13","protocol_id":"PR002","item_type":"Practice","item_id":"P0049","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0051:20","protocol_id":"PR002","item_type":"Practice","item_id":"P0051","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0057:2","protocol_id":"PR002","item_type":"Practice","item_id":"P0057","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0058:1","protocol_id":"PR002","item_type":"Practice","item_id":"P0058","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0059:3","protocol_id":"PR002","item_type":"Practice","item_id":"P0059","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0060:4","protocol_id":"PR002","item_type":"Practice","item_id":"P0060","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0061:5","protocol_id":"PR002","item_type":"Practice","item_id":"P0061","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0062:6","protocol_id":"PR002","item_type":"Practice","item_id":"P0062","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0068:25","protocol_id":"PR002","item_type":"Practice","item_id":"P0068","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0069:27","protocol_id":"PR002","item_type":"Practice","item_id":"P0069","sequence_order":27,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0071:29","protocol_id":"PR002","item_type":"Practice","item_id":"P0071","sequence_order":29,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0072:24","protocol_id":"PR002","item_type":"Practice","item_id":"P0072","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0073:26","protocol_id":"PR002","item_type":"Practice","item_id":"P0073","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0074:28","protocol_id":"PR002","item_type":"Practice","item_id":"P0074","sequence_order":28,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0085:21","protocol_id":"PR002","item_type":"Practice","item_id":"P0085","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0089:22","protocol_id":"PR002","item_type":"Practice","item_id":"P0089","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0090:19","protocol_id":"PR002","item_type":"Practice","item_id":"P0090","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0091:11","protocol_id":"PR002","item_type":"Practice","item_id":"P0091","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0093:23","protocol_id":"PR002","item_type":"Practice","item_id":"P0093","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR002:Practice:P0148:16","protocol_id":"PR002","item_type":"Practice","item_id":"P0148","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0003:1","protocol_id":"PR003","item_type":"Practice","item_id":"P0003","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0004:3","protocol_id":"PR003","item_type":"Practice","item_id":"P0004","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0012:8","protocol_id":"PR003","item_type":"Practice","item_id":"P0012","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0013:2","protocol_id":"PR003","item_type":"Practice","item_id":"P0013","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0035:18","protocol_id":"PR003","item_type":"Practice","item_id":"P0035","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0043:7","protocol_id":"PR003","item_type":"Practice","item_id":"P0043","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0045:17","protocol_id":"PR003","item_type":"Practice","item_id":"P0045","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0053:13","protocol_id":"PR003","item_type":"Practice","item_id":"P0053","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0054:14","protocol_id":"PR003","item_type":"Practice","item_id":"P0054","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0055:12","protocol_id":"PR003","item_type":"Practice","item_id":"P0055","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0056:10","protocol_id":"PR003","item_type":"Practice","item_id":"P0056","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0060:4","protocol_id":"PR003","item_type":"Practice","item_id":"P0060","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0070:19","protocol_id":"PR003","item_type":"Practice","item_id":"P0070","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0083:15","protocol_id":"PR003","item_type":"Practice","item_id":"P0083","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0090:9","protocol_id":"PR003","item_type":"Practice","item_id":"P0090","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0097:5","protocol_id":"PR003","item_type":"Practice","item_id":"P0097","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0100:16","protocol_id":"PR003","item_type":"Practice","item_id":"P0100","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0101:11","protocol_id":"PR003","item_type":"Practice","item_id":"P0101","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0123:20","protocol_id":"PR003","item_type":"Practice","item_id":"P0123","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR003:Practice:P0151:6","protocol_id":"PR003","item_type":"Practice","item_id":"P0151","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0014:6","protocol_id":"PR004","item_type":"Practice","item_id":"P0014","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0017:5","protocol_id":"PR004","item_type":"Practice","item_id":"P0017","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0018:4","protocol_id":"PR004","item_type":"Practice","item_id":"P0018","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0021:3","protocol_id":"PR004","item_type":"Practice","item_id":"P0021","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0022:2","protocol_id":"PR004","item_type":"Practice","item_id":"P0022","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0026:1","protocol_id":"PR004","item_type":"Practice","item_id":"P0026","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0058:7","protocol_id":"PR004","item_type":"Practice","item_id":"P0058","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0070:8","protocol_id":"PR004","item_type":"Practice","item_id":"P0070","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR004:Practice:P0123:9","protocol_id":"PR004","item_type":"Practice","item_id":"P0123","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0001:20","protocol_id":"PR005","item_type":"Practice","item_id":"P0001","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0003:22","protocol_id":"PR005","item_type":"Practice","item_id":"P0003","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0004:24","protocol_id":"PR005","item_type":"Practice","item_id":"P0004","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0006:28","protocol_id":"PR005","item_type":"Practice","item_id":"P0006","sequence_order":28,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0008:26","protocol_id":"PR005","item_type":"Practice","item_id":"P0008","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0009:30","protocol_id":"PR005","item_type":"Practice","item_id":"P0009","sequence_order":30,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0014:2","protocol_id":"PR005","item_type":"Practice","item_id":"P0014","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0015:4","protocol_id":"PR005","item_type":"Practice","item_id":"P0015","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0021:6","protocol_id":"PR005","item_type":"Practice","item_id":"P0021","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0026:8","protocol_id":"PR005","item_type":"Practice","item_id":"P0026","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0034:10","protocol_id":"PR005","item_type":"Practice","item_id":"P0034","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0039:18","protocol_id":"PR005","item_type":"Practice","item_id":"P0039","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0040:27","protocol_id":"PR005","item_type":"Practice","item_id":"P0040","sequence_order":27,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0043:13","protocol_id":"PR005","item_type":"Practice","item_id":"P0043","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0045:15","protocol_id":"PR005","item_type":"Practice","item_id":"P0045","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0046:32","protocol_id":"PR005","item_type":"Practice","item_id":"P0046","sequence_order":32,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0053:19","protocol_id":"PR005","item_type":"Practice","item_id":"P0053","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0057:1","protocol_id":"PR005","item_type":"Practice","item_id":"P0057","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0058:3","protocol_id":"PR005","item_type":"Practice","item_id":"P0058","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0059:5","protocol_id":"PR005","item_type":"Practice","item_id":"P0059","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0060:7","protocol_id":"PR005","item_type":"Practice","item_id":"P0060","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0061:9","protocol_id":"PR005","item_type":"Practice","item_id":"P0061","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0063:11","protocol_id":"PR005","item_type":"Practice","item_id":"P0063","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0065:17","protocol_id":"PR005","item_type":"Practice","item_id":"P0065","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0077:12","protocol_id":"PR005","item_type":"Practice","item_id":"P0077","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0080:38","protocol_id":"PR005","item_type":"Practice","item_id":"P0080","sequence_order":38,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0083:21","protocol_id":"PR005","item_type":"Practice","item_id":"P0083","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0087:25","protocol_id":"PR005","item_type":"Practice","item_id":"P0087","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0090:29","protocol_id":"PR005","item_type":"Practice","item_id":"P0090","sequence_order":29,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0100:23","protocol_id":"PR005","item_type":"Practice","item_id":"P0100","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0102:14","protocol_id":"PR005","item_type":"Practice","item_id":"P0102","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0103:16","protocol_id":"PR005","item_type":"Practice","item_id":"P0103","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0104:36","protocol_id":"PR005","item_type":"Practice","item_id":"P0104","sequence_order":36,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0105:37","protocol_id":"PR005","item_type":"Practice","item_id":"P0105","sequence_order":37,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0115:41","protocol_id":"PR005","item_type":"Practice","item_id":"P0115","sequence_order":41,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0116:42","protocol_id":"PR005","item_type":"Practice","item_id":"P0116","sequence_order":42,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0117:43","protocol_id":"PR005","item_type":"Practice","item_id":"P0117","sequence_order":43,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0118:44","protocol_id":"PR005","item_type":"Practice","item_id":"P0118","sequence_order":44,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0123:40","protocol_id":"PR005","item_type":"Practice","item_id":"P0123","sequence_order":40,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0144:31","protocol_id":"PR005","item_type":"Practice","item_id":"P0144","sequence_order":31,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0145:33","protocol_id":"PR005","item_type":"Practice","item_id":"P0145","sequence_order":33,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0146:35","protocol_id":"PR005","item_type":"Practice","item_id":"P0146","sequence_order":35,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0147:39","protocol_id":"PR005","item_type":"Practice","item_id":"P0147","sequence_order":39,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR005:Practice:P0151:34","protocol_id":"PR005","item_type":"Practice","item_id":"P0151","sequence_order":34,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0001:3","protocol_id":"PR006","item_type":"Practice","item_id":"P0001","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0002:1","protocol_id":"PR006","item_type":"Practice","item_id":"P0002","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0005:5","protocol_id":"PR006","item_type":"Practice","item_id":"P0005","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0006:9","protocol_id":"PR006","item_type":"Practice","item_id":"P0006","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0008:7","protocol_id":"PR006","item_type":"Practice","item_id":"P0008","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0009:11","protocol_id":"PR006","item_type":"Practice","item_id":"P0009","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0010:13","protocol_id":"PR006","item_type":"Practice","item_id":"P0010","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0012:38","protocol_id":"PR006","item_type":"Practice","item_id":"P0012","sequence_order":38,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0014:21","protocol_id":"PR006","item_type":"Practice","item_id":"P0014","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0016:2","protocol_id":"PR006","item_type":"Practice","item_id":"P0016","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0018:4","protocol_id":"PR006","item_type":"Practice","item_id":"P0018","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0020:6","protocol_id":"PR006","item_type":"Practice","item_id":"P0020","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0024:10","protocol_id":"PR006","item_type":"Practice","item_id":"P0024","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0025:8","protocol_id":"PR006","item_type":"Practice","item_id":"P0025","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0030:19","protocol_id":"PR006","item_type":"Practice","item_id":"P0030","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0040:30","protocol_id":"PR006","item_type":"Practice","item_id":"P0040","sequence_order":30,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0042:12","protocol_id":"PR006","item_type":"Practice","item_id":"P0042","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0042:32","protocol_id":"PR006","item_type":"Practice","item_id":"P0042","sequence_order":32,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0046:15","protocol_id":"PR006","item_type":"Practice","item_id":"P0046","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0053:18","protocol_id":"PR006","item_type":"Practice","item_id":"P0053","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0058:23","protocol_id":"PR006","item_type":"Practice","item_id":"P0058","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0059:25","protocol_id":"PR006","item_type":"Practice","item_id":"P0059","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0077:24","protocol_id":"PR006","item_type":"Practice","item_id":"P0077","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0078:41","protocol_id":"PR006","item_type":"Practice","item_id":"P0078","sequence_order":41,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0082:20","protocol_id":"PR006","item_type":"Practice","item_id":"P0082","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0082:40","protocol_id":"PR006","item_type":"Practice","item_id":"P0082","sequence_order":40,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0083:26","protocol_id":"PR006","item_type":"Practice","item_id":"P0083","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0090:16","protocol_id":"PR006","item_type":"Practice","item_id":"P0090","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0090:34","protocol_id":"PR006","item_type":"Practice","item_id":"P0090","sequence_order":34,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0100:28","protocol_id":"PR006","item_type":"Practice","item_id":"P0100","sequence_order":28,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0101:14","protocol_id":"PR006","item_type":"Practice","item_id":"P0101","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0101:36","protocol_id":"PR006","item_type":"Practice","item_id":"P0101","sequence_order":36,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0123:22","protocol_id":"PR006","item_type":"Practice","item_id":"P0123","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0123:42","protocol_id":"PR006","item_type":"Practice","item_id":"P0123","sequence_order":42,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0137:27","protocol_id":"PR006","item_type":"Practice","item_id":"P0137","sequence_order":27,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0138:29","protocol_id":"PR006","item_type":"Practice","item_id":"P0138","sequence_order":29,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0139:31","protocol_id":"PR006","item_type":"Practice","item_id":"P0139","sequence_order":31,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0140:33","protocol_id":"PR006","item_type":"Practice","item_id":"P0140","sequence_order":33,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0141:35","protocol_id":"PR006","item_type":"Practice","item_id":"P0141","sequence_order":35,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0142:37","protocol_id":"PR006","item_type":"Practice","item_id":"P0142","sequence_order":37,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0143:39","protocol_id":"PR006","item_type":"Practice","item_id":"P0143","sequence_order":39,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR006:Practice:P0151:17","protocol_id":"PR006","item_type":"Practice","item_id":"P0151","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0042:7","protocol_id":"PR007","item_type":"Practice","item_id":"P0042","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0052:9","protocol_id":"PR007","item_type":"Practice","item_id":"P0052","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0057:1","protocol_id":"PR007","item_type":"Practice","item_id":"P0057","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0058:2","protocol_id":"PR007","item_type":"Practice","item_id":"P0058","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0060:6","protocol_id":"PR007","item_type":"Practice","item_id":"P0060","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0061:5","protocol_id":"PR007","item_type":"Practice","item_id":"P0061","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0062:3","protocol_id":"PR007","item_type":"Practice","item_id":"P0062","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0063:4","protocol_id":"PR007","item_type":"Practice","item_id":"P0063","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0064:8","protocol_id":"PR007","item_type":"Practice","item_id":"P0064","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0065:10","protocol_id":"PR007","item_type":"Practice","item_id":"P0065","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0066:11","protocol_id":"PR007","item_type":"Practice","item_id":"P0066","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0067:12","protocol_id":"PR007","item_type":"Practice","item_id":"P0067","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0068:29","protocol_id":"PR007","item_type":"Practice","item_id":"P0068","sequence_order":29,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0069:31","protocol_id":"PR007","item_type":"Practice","item_id":"P0069","sequence_order":31,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0071:33","protocol_id":"PR007","item_type":"Practice","item_id":"P0071","sequence_order":33,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0072:28","protocol_id":"PR007","item_type":"Practice","item_id":"P0072","sequence_order":28,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0073:30","protocol_id":"PR007","item_type":"Practice","item_id":"P0073","sequence_order":30,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0074:32","protocol_id":"PR007","item_type":"Practice","item_id":"P0074","sequence_order":32,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0077:13","protocol_id":"PR007","item_type":"Practice","item_id":"P0077","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0078:14","protocol_id":"PR007","item_type":"Practice","item_id":"P0078","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0079:16","protocol_id":"PR007","item_type":"Practice","item_id":"P0079","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0081:20","protocol_id":"PR007","item_type":"Practice","item_id":"P0081","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0084:25","protocol_id":"PR007","item_type":"Practice","item_id":"P0084","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0086:19","protocol_id":"PR007","item_type":"Practice","item_id":"P0086","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0087:17","protocol_id":"PR007","item_type":"Practice","item_id":"P0087","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0088:18","protocol_id":"PR007","item_type":"Practice","item_id":"P0088","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0089:21","protocol_id":"PR007","item_type":"Practice","item_id":"P0089","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0091:26","protocol_id":"PR007","item_type":"Practice","item_id":"P0091","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0093:27","protocol_id":"PR007","item_type":"Practice","item_id":"P0093","sequence_order":27,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0102:15","protocol_id":"PR007","item_type":"Practice","item_id":"P0102","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0106:22","protocol_id":"PR007","item_type":"Practice","item_id":"P0106","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0107:23","protocol_id":"PR007","item_type":"Practice","item_id":"P0107","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR007:Practice:P0108:24","protocol_id":"PR007","item_type":"Practice","item_id":"P0108","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0001:1","protocol_id":"PR008","item_type":"Practice","item_id":"P0001","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0005:3","protocol_id":"PR008","item_type":"Practice","item_id":"P0005","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0011:5","protocol_id":"PR008","item_type":"Practice","item_id":"P0011","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0014:9","protocol_id":"PR008","item_type":"Practice","item_id":"P0014","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0016:10","protocol_id":"PR008","item_type":"Practice","item_id":"P0016","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0019:11","protocol_id":"PR008","item_type":"Practice","item_id":"P0019","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0021:13","protocol_id":"PR008","item_type":"Practice","item_id":"P0021","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0027:15","protocol_id":"PR008","item_type":"Practice","item_id":"P0027","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0034:14","protocol_id":"PR008","item_type":"Practice","item_id":"P0034","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0035:12","protocol_id":"PR008","item_type":"Practice","item_id":"P0035","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0042:18","protocol_id":"PR008","item_type":"Practice","item_id":"P0042","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0045:19","protocol_id":"PR008","item_type":"Practice","item_id":"P0045","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0057:2","protocol_id":"PR008","item_type":"Practice","item_id":"P0057","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0058:6","protocol_id":"PR008","item_type":"Practice","item_id":"P0058","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0059:4","protocol_id":"PR008","item_type":"Practice","item_id":"P0059","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0060:8","protocol_id":"PR008","item_type":"Practice","item_id":"P0060","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0066:23","protocol_id":"PR008","item_type":"Practice","item_id":"P0066","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0078:16","protocol_id":"PR008","item_type":"Practice","item_id":"P0078","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0087:22","protocol_id":"PR008","item_type":"Practice","item_id":"P0087","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0101:21","protocol_id":"PR008","item_type":"Practice","item_id":"P0101","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0102:20","protocol_id":"PR008","item_type":"Practice","item_id":"P0102","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0104:24","protocol_id":"PR008","item_type":"Practice","item_id":"P0104","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0123:25","protocol_id":"PR008","item_type":"Practice","item_id":"P0123","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0151:7","protocol_id":"PR008","item_type":"Practice","item_id":"P0151","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR008:Practice:P0152:17","protocol_id":"PR008","item_type":"Practice","item_id":"P0152","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0124:7","protocol_id":"PR009","item_type":"Practice","item_id":"P0124","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0125:1","protocol_id":"PR009","item_type":"Practice","item_id":"P0125","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0132:2","protocol_id":"PR009","item_type":"Practice","item_id":"P0132","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0133:3","protocol_id":"PR009","item_type":"Practice","item_id":"P0133","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0134:4","protocol_id":"PR009","item_type":"Practice","item_id":"P0134","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0135:5","protocol_id":"PR009","item_type":"Practice","item_id":"P0135","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR009:Practice:P0136:6","protocol_id":"PR009","item_type":"Practice","item_id":"P0136","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0031:6","protocol_id":"PR010","item_type":"Practice","item_id":"P0031","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0032:3","protocol_id":"PR010","item_type":"Practice","item_id":"P0032","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0033:4","protocol_id":"PR010","item_type":"Practice","item_id":"P0033","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0034:5","protocol_id":"PR010","item_type":"Practice","item_id":"P0034","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0036:1","protocol_id":"PR010","item_type":"Practice","item_id":"P0036","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0037:2","protocol_id":"PR010","item_type":"Practice","item_id":"P0037","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0038:10","protocol_id":"PR010","item_type":"Practice","item_id":"P0038","sequence_order":10,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0042:17","protocol_id":"PR010","item_type":"Practice","item_id":"P0042","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0044:20","protocol_id":"PR010","item_type":"Practice","item_id":"P0044","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0047:12","protocol_id":"PR010","item_type":"Practice","item_id":"P0047","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0048:9","protocol_id":"PR010","item_type":"Practice","item_id":"P0048","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0049:15","protocol_id":"PR010","item_type":"Practice","item_id":"P0049","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0050:8","protocol_id":"PR010","item_type":"Practice","item_id":"P0050","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0060:11","protocol_id":"PR010","item_type":"Practice","item_id":"P0060","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0085:19","protocol_id":"PR010","item_type":"Practice","item_id":"P0085","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0086:13","protocol_id":"PR010","item_type":"Practice","item_id":"P0086","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0089:22","protocol_id":"PR010","item_type":"Practice","item_id":"P0089","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0100:18","protocol_id":"PR010","item_type":"Practice","item_id":"P0100","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0117:21","protocol_id":"PR010","item_type":"Practice","item_id":"P0117","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0123:23","protocol_id":"PR010","item_type":"Practice","item_id":"P0123","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0148:16","protocol_id":"PR010","item_type":"Practice","item_id":"P0148","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0149:7","protocol_id":"PR010","item_type":"Practice","item_id":"P0149","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR010:Practice:P0150:14","protocol_id":"PR010","item_type":"Practice","item_id":"P0150","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0033:15","protocol_id":"PR011","item_type":"Practice","item_id":"P0033","sequence_order":15,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0034:17","protocol_id":"PR011","item_type":"Practice","item_id":"P0034","sequence_order":17,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0036:13","protocol_id":"PR011","item_type":"Practice","item_id":"P0036","sequence_order":13,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0040:22","protocol_id":"PR011","item_type":"Practice","item_id":"P0040","sequence_order":22,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0041:19","protocol_id":"PR011","item_type":"Practice","item_id":"P0041","sequence_order":19,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0042:9","protocol_id":"PR011","item_type":"Practice","item_id":"P0042","sequence_order":9,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0056:2","protocol_id":"PR011","item_type":"Practice","item_id":"P0056","sequence_order":2,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0057:1","protocol_id":"PR011","item_type":"Practice","item_id":"P0057","sequence_order":1,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0058:3","protocol_id":"PR011","item_type":"Practice","item_id":"P0058","sequence_order":3,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0059:5","protocol_id":"PR011","item_type":"Practice","item_id":"P0059","sequence_order":5,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0060:7","protocol_id":"PR011","item_type":"Practice","item_id":"P0060","sequence_order":7,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0075:21","protocol_id":"PR011","item_type":"Practice","item_id":"P0075","sequence_order":21,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0077:6","protocol_id":"PR011","item_type":"Practice","item_id":"P0077","sequence_order":6,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0078:4","protocol_id":"PR011","item_type":"Practice","item_id":"P0078","sequence_order":4,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0079:8","protocol_id":"PR011","item_type":"Practice","item_id":"P0079","sequence_order":8,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0080:20","protocol_id":"PR011","item_type":"Practice","item_id":"P0080","sequence_order":20,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0082:24","protocol_id":"PR011","item_type":"Practice","item_id":"P0082","sequence_order":24,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0083:14","protocol_id":"PR011","item_type":"Practice","item_id":"P0083","sequence_order":14,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0088:18","protocol_id":"PR011","item_type":"Practice","item_id":"P0088","sequence_order":18,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0089:23","protocol_id":"PR011","item_type":"Practice","item_id":"P0089","sequence_order":23,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0090:25","protocol_id":"PR011","item_type":"Practice","item_id":"P0090","sequence_order":25,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0091:12","protocol_id":"PR011","item_type":"Practice","item_id":"P0091","sequence_order":12,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0100:16","protocol_id":"PR011","item_type":"Practice","item_id":"P0100","sequence_order":16,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0123:26","protocol_id":"PR011","item_type":"Practice","item_id":"P0123","sequence_order":26,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0124:11","protocol_id":"PR011","item_type":"Practice","item_id":"P0124","sequence_order":11,"dose_or_duration":"","notes":""}
+{"protocol_item_id":"PR011:Practice:P0152:10","protocol_id":"PR011","item_type":"Practice","item_id":"P0152","sequence_order":10,"dose_or_duration":"","notes":""}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "koshas.schema.json",
+  "title": "koshas",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "kosha_id": {
+      "type": "string",
+      "pattern": "^K\\d{2,}$"
+    },
+    "kosha_name": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "kosha_id",
+    "kosha_name",
+    "meaning_function"
+  ]
+}

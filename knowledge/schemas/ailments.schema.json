@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "ailments.schema.json",
+  "title": "ailments",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "ailment_id": {
+      "type": "string",
+      "pattern": "^A\\d{3,}$"
+    },
+    "ailment_name": {
+      "type": "string"
+    },
+    "ailment_group": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "ailment_id",
+    "ailment_name",
+    "ailment_group",
+    "meaning_function",
+    "source_doc"
+  ]
+}

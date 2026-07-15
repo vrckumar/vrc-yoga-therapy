@@ -1,0 +1,319 @@
+{"map_id":"IAMC001","item_type":"Practice","item_id":"P0125","ailment_id":"A005","priority":"Supportive","notes":"IRT is explicitly listed in the hypertension module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC002","item_type":"Practice","item_id":"P0124","ailment_id":"A005","priority":"Supportive","notes":"QRT is explicitly listed in the hypertension module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC003","item_type":"Practice","item_id":"P0123","ailment_id":"A005","priority":"Primary","notes":"DRT is explicitly listed in the hypertension module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC004","item_type":"Practice","item_id":"P0074","ailment_id":"A005","priority":"Supportive","notes":"Cooling pranayama is part of hypertension support.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC005","item_type":"Practice","item_id":"P0071","ailment_id":"A005","priority":"Primary","notes":"Bhramari is explicitly listed in the hypertension module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC006","item_type":"Practice","item_id":"P0069","ailment_id":"A005","priority":"Supportive","notes":"Nadisuddhi is named in hypertension support text.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC007","item_type":"Practice","item_id":"P0164","ailment_id":"A005","priority":"Supportive","notes":"Nadanusandana is named for manomaya support in hypertension.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC008","item_type":"Practice","item_id":"P0119","ailment_id":"A005","priority":"Primary","notes":"Om Meditation is explicitly listed in the hypertension module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC009","item_type":"Practice","item_id":"P0057","ailment_id":"A007","priority":"Primary","notes":"Breathing expansion is part of asthma management.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC010","item_type":"Practice","item_id":"P0058","ailment_id":"A007","priority":"Supportive","notes":"Hand stretch breathing supports chest opening in asthma.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC011","item_type":"Practice","item_id":"P0060","ailment_id":"A007","priority":"Primary","notes":"Tiger breathing is used in respiratory modules.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC012","item_type":"Practice","item_id":"P0061","ailment_id":"A007","priority":"Supportive","notes":"Sasankasana breathing supports respiratory calming.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC013","item_type":"Practice","item_id":"P0068","ailment_id":"A007","priority":"Supportive","notes":"Sectional breathing supports respiratory regulation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC014","item_type":"Practice","item_id":"P0069","ailment_id":"A007","priority":"Supportive","notes":"Nadisuddhi is calming and balancing for asthma support.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC015","item_type":"Practice","item_id":"P0071","ailment_id":"A007","priority":"Primary","notes":"Bhramari is supportive for bronchial asthma regulation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC016","item_type":"Practice","item_id":"P0163","ailment_id":"A007","priority":"Supportive","notes":"Mukha Dhouti is described as useful for asthma and bronchitis.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC017","item_type":"Practice","item_id":"P0123","ailment_id":"A008","priority":"Primary","notes":"DRT is part of the anxiety and depression module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC018","item_type":"Practice","item_id":"P0124","ailment_id":"A008","priority":"Supportive","notes":"QRT supports relaxation in anxiety and depression.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC019","item_type":"Practice","item_id":"P0125","ailment_id":"A008","priority":"Supportive","notes":"IRT supports quick release of tension.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC020","item_type":"Practice","item_id":"P0119","ailment_id":"A008","priority":"Primary","notes":"Om Meditation is explicitly used in anxiety and depression care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC021","item_type":"Practice","item_id":"P0121","ailment_id":"A008","priority":"Primary","notes":"Cyclic Meditation is explicitly used in anxiety and depression care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC022","item_type":"Practice","item_id":"P0129","ailment_id":"A008","priority":"Primary","notes":"MIRT is part of advanced mind-level support in the common ailments corpus.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC023","item_type":"Practice","item_id":"P0130","ailment_id":"A008","priority":"Supportive","notes":"VISAK appears in advanced psychological support lists.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC024","item_type":"Practice","item_id":"P0131","ailment_id":"A008","priority":"Supportive","notes":"ANAMS appears in advanced psychological support lists.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC025","item_type":"Practice","item_id":"P0163","ailment_id":"A008","priority":"Supportive","notes":"Mukha Dhouti is used to relax strain in anxiety and depression sequencing.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC026","item_type":"Practice","item_id":"P0164","ailment_id":"A008","priority":"Primary","notes":"Nadanusandana is repeatedly named in the manomaya support layer.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC027","item_type":"Practice","item_id":"P0165","ailment_id":"A008","priority":"Primary","notes":"SMET is an SVYASA stress-management framework.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC028","item_type":"Practice","item_id":"P0060","ailment_id":"A014","priority":"Supportive","notes":"Tiger breathing is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC029","item_type":"Practice","item_id":"P0161","ailment_id":"A014","priority":"Primary","notes":"Straight Leg Raise Breathing is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC030","item_type":"Practice","item_id":"P0125","ailment_id":"A014","priority":"Supportive","notes":"IRT is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC031","item_type":"Practice","item_id":"P0064","ailment_id":"A014","priority":"Primary","notes":"Pavanamuktasana breathing is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC032","item_type":"Practice","item_id":"P0124","ailment_id":"A014","priority":"Supportive","notes":"QRT is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC033","item_type":"Practice","item_id":"P0068","ailment_id":"A014","priority":"Supportive","notes":"Sectional breathing is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC034","item_type":"Practice","item_id":"P0074","ailment_id":"A014","priority":"Supportive","notes":"Cooling pranayama is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC035","item_type":"Practice","item_id":"P0071","ailment_id":"A014","priority":"Supportive","notes":"Bhramari is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC036","item_type":"Practice","item_id":"P0119","ailment_id":"A014","priority":"Primary","notes":"Om Meditation is part of the APD module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC037","item_type":"Practice","item_id":"P0057","ailment_id":"A015","priority":"Supportive","notes":"Hands in and out breathing is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC038","item_type":"Practice","item_id":"P0060","ailment_id":"A015","priority":"Supportive","notes":"Tiger breathing is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC039","item_type":"Practice","item_id":"P0161","ailment_id":"A015","priority":"Primary","notes":"Straight Leg Raise Breathing is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC040","item_type":"Practice","item_id":"P0061","ailment_id":"A015","priority":"Supportive","notes":"Sasankasana breathing is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC041","item_type":"Practice","item_id":"P0125","ailment_id":"A015","priority":"Supportive","notes":"IRT is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC042","item_type":"Practice","item_id":"P0064","ailment_id":"A015","priority":"Primary","notes":"Pavanamuktasana breathing is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC043","item_type":"Practice","item_id":"P0124","ailment_id":"A015","priority":"Supportive","notes":"QRT is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC044","item_type":"Practice","item_id":"P0068","ailment_id":"A015","priority":"Supportive","notes":"Vibhagiya pranayama is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC045","item_type":"Practice","item_id":"P0071","ailment_id":"A015","priority":"Supportive","notes":"Bhramari is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC046","item_type":"Practice","item_id":"P0119","ailment_id":"A015","priority":"Primary","notes":"Om Meditation is part of the IBS / UC module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC047","item_type":"Practice","item_id":"P0060","ailment_id":"A016","priority":"Primary","notes":"Tiger breathing is part of the chronic constipation module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC048","item_type":"Practice","item_id":"P0161","ailment_id":"A016","priority":"Supportive","notes":"Straight Leg Raise Breathing is part of the chronic constipation module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC049","item_type":"Practice","item_id":"P0064","ailment_id":"A016","priority":"Primary","notes":"Pavanamuktasana breathing is part of the chronic constipation module.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC050","item_type":"Practice","item_id":"P0090","ailment_id":"A016","priority":"Supportive","notes":"Pavanamuktasana supports abdominal release and bowel movement.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC051","item_type":"Practice","item_id":"P0072","ailment_id":"A016","priority":"Supportive","notes":"Kapalabhati is named in digestive and constipation support.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC052","item_type":"Practice","item_id":"P0124","ailment_id":"A016","priority":"Supportive","notes":"QRT supports bowel-relaxation protocol structure.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC053","item_type":"Practice","item_id":"P0068","ailment_id":"A016","priority":"Supportive","notes":"Vibhagiya pranayama supports digestive relaxation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC054","item_type":"Practice","item_id":"P0119","ailment_id":"A016","priority":"Supportive","notes":"Om Meditation supports constipation protocol calming.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC055","item_type":"Practice","item_id":"P0129","ailment_id":"A013","priority":"Supportive","notes":"MIRT contributes to positive health cultivation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC056","item_type":"Practice","item_id":"P0130","ailment_id":"A013","priority":"Supportive","notes":"VISAK contributes to positive health cultivation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC057","item_type":"Practice","item_id":"P0131","ailment_id":"A013","priority":"Supportive","notes":"ANAMS contributes to positive health cultivation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAMC058","item_type":"Practice","item_id":"P0165","ailment_id":"A013","priority":"Supportive","notes":"SMET contributes to positive health promotion.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML059","item_type":"Lifestyle","item_id":"LIF001","ailment_id":"A006","priority":"Primary","notes":"Satvik diet is explicitly recommended in digestive regulation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML060","item_type":"Lifestyle","item_id":"LIF001","ailment_id":"A008","priority":"Supportive","notes":"Satvik food supports a calmer manomaya state.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML061","item_type":"Lifestyle","item_id":"LIF001","ailment_id":"A013","priority":"Primary","notes":"Satvik food is foundational for positive health promotion.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML062","item_type":"Lifestyle","item_id":"LIF002","ailment_id":"A005","priority":"Primary","notes":"Low-fat, low-cholesterol diet is explicitly recommended in cardiovascular care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML063","item_type":"Lifestyle","item_id":"LIF002","ailment_id":"A009","priority":"Primary","notes":"Low-fat, low-cholesterol diet is explicitly recommended in cardiac / PAD sections.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML064","item_type":"Lifestyle","item_id":"LIF003","ailment_id":"A001","priority":"Primary","notes":"Balanced diet supports diabetes management.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML065","item_type":"Lifestyle","item_id":"LIF003","ailment_id":"A002","priority":"Supportive","notes":"Balanced metabolic diet supports obesity overlap.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML066","item_type":"Lifestyle","item_id":"LIF004","ailment_id":"A002","priority":"Primary","notes":"Balanced low-calorie diet supports obesity management.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML067","item_type":"Lifestyle","item_id":"LIF005","ailment_id":"A007","priority":"Primary","notes":"Warm, light food discipline is explicitly recommended in asthma contexts.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML068","item_type":"Lifestyle","item_id":"LIF006","ailment_id":"A004","priority":"Supportive","notes":"Diet and routine guidance can support back-pain recovery and reduced inflammatory burden.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML069","item_type":"Lifestyle","item_id":"LIF007","ailment_id":"A008","priority":"Primary","notes":"Avoiding mood-aggravating food and stimulant patterns supports anxiety / depression management.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML070","item_type":"Lifestyle","item_id":"LIF008","ailment_id":"A001","priority":"Supportive","notes":"Laghu ahara is explicitly recommended in diabetes.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML071","item_type":"Lifestyle","item_id":"LIF008","ailment_id":"A002","priority":"Supportive","notes":"Laghu ahara is explicitly recommended in obesity.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML072","item_type":"Lifestyle","item_id":"LIF008","ailment_id":"A006","priority":"Primary","notes":"Laghu ahara is useful in digestive regulation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML073","item_type":"Lifestyle","item_id":"LIF009","ailment_id":"A006","priority":"Primary","notes":"Viruddhahara avoidance supports digestion and digestive recovery.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML074","item_type":"Lifestyle","item_id":"LIF009","ailment_id":"A014","priority":"Supportive","notes":"Incompatible foods can worsen APD-type irritation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML075","item_type":"Lifestyle","item_id":"LIF009","ailment_id":"A015","priority":"Supportive","notes":"Digestive incompatibility avoidance supports IBS / UC care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML076","item_type":"Lifestyle","item_id":"LIF010","ailment_id":"A008","priority":"Primary","notes":"Tension-free lifestyle is repeatedly recommended in psychosomatic conditions.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML077","item_type":"Lifestyle","item_id":"LIF010","ailment_id":"A005","priority":"Supportive","notes":"Stress-free living supports blood pressure regulation.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML078","item_type":"Lifestyle","item_id":"LIF011","ailment_id":"A013","priority":"Primary","notes":"Yuktahara-vihara is a positive-health regulation principle.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML079","item_type":"Lifestyle","item_id":"LIF011","ailment_id":"A005","priority":"Supportive","notes":"Balanced food-rest-activity rhythm supports hypertension care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML080","item_type":"Lifestyle","item_id":"LIF011","ailment_id":"A008","priority":"Supportive","notes":"Balanced life rhythm supports psychological stability.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML081","item_type":"Lifestyle","item_id":"LIF012","ailment_id":"A005","priority":"Primary","notes":"Smoking cessation is explicitly recommended in cardiovascular risk reduction.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML082","item_type":"Lifestyle","item_id":"LIF012","ailment_id":"A007","priority":"Supportive","notes":"Smoking cessation supports respiratory care.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"IAML083","item_type":"Lifestyle","item_id":"LIF012","ailment_id":"A009","priority":"Primary","notes":"Smoking cessation is explicitly recommended in cardiac / PAD contexts.","source_doc":"docs/library-fix-plan.md"}
+{"map_id":"PAM0001","item_type":"Practice","item_id":"P0023","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0002","item_type":"Practice","item_id":"P0024","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0003","item_type":"Practice","item_id":"P0014","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0004","item_type":"Practice","item_id":"P0016","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0005","item_type":"Practice","item_id":"P0018","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0006","item_type":"Practice","item_id":"P0020","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0007","item_type":"Practice","item_id":"P0007","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0008","item_type":"Practice","item_id":"P0030","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0009","item_type":"Practice","item_id":"P0080","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0010","item_type":"Practice","item_id":"P0079","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0011","item_type":"Practice","item_id":"P0077","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0012","item_type":"Practice","item_id":"P0081","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0013","item_type":"Practice","item_id":"P0011","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0014","item_type":"Practice","item_id":"P0093","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0015","item_type":"Practice","item_id":"P0005","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0016","item_type":"Practice","item_id":"P0082","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0017","item_type":"Practice","item_id":"P0001","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0018","item_type":"Practice","item_id":"P0123","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0019","item_type":"Practice","item_id":"P0057","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0020","item_type":"Practice","item_id":"P0060","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0021","item_type":"Practice","item_id":"P0058","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0022","item_type":"Practice","item_id":"P0083","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0023","item_type":"Practice","item_id":"P0059","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0024","item_type":"Practice","item_id":"P0084","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0025","item_type":"Practice","item_id":"P0061","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0026","item_type":"Practice","item_id":"P0086","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0027","item_type":"Practice","item_id":"P0042","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0028","item_type":"Practice","item_id":"P0087","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0029","item_type":"Practice","item_id":"P0089","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0030","item_type":"Practice","item_id":"P0088","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0031","item_type":"Practice","item_id":"P0036","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0032","item_type":"Practice","item_id":"P0075","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0033","item_type":"Practice","item_id":"P0076","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0034","item_type":"Practice","item_id":"P0033","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0035","item_type":"Practice","item_id":"P0090","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0036","item_type":"Practice","item_id":"P0034","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0037","item_type":"Practice","item_id":"P0091","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0038","item_type":"Practice","item_id":"P0035","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0039","item_type":"Practice","item_id":"P0092","ailment_id":"A001","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC F Practice List.pdf"}
+{"map_id":"PAM0040","item_type":"Practice","item_id":"P0058","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0041","item_type":"Practice","item_id":"P0057","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0042","item_type":"Practice","item_id":"P0059","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0043","item_type":"Practice","item_id":"P0060","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0044","item_type":"Practice","item_id":"P0061","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0045","item_type":"Practice","item_id":"P0062","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0046","item_type":"Practice","item_id":"P0036","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0047","item_type":"Practice","item_id":"P0033","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0048","item_type":"Practice","item_id":"P0035","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0049","item_type":"Practice","item_id":"P0034","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0050","item_type":"Practice","item_id":"P0091","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0051","item_type":"Practice","item_id":"P0048","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0052","item_type":"Practice","item_id":"P0049","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0053","item_type":"Practice","item_id":"P0047","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0054","item_type":"Practice","item_id":"P0044","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0055","item_type":"Practice","item_id":"P0148","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0056","item_type":"Practice","item_id":"P0045","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0057","item_type":"Practice","item_id":"P0040","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0058","item_type":"Practice","item_id":"P0090","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0059","item_type":"Practice","item_id":"P0051","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0060","item_type":"Practice","item_id":"P0085","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0061","item_type":"Practice","item_id":"P0089","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0062","item_type":"Practice","item_id":"P0093","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0063","item_type":"Practice","item_id":"P0072","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0064","item_type":"Practice","item_id":"P0068","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0065","item_type":"Practice","item_id":"P0073","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0066","item_type":"Practice","item_id":"P0069","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0067","item_type":"Practice","item_id":"P0074","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0068","item_type":"Practice","item_id":"P0071","ailment_id":"A002","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC H Practice List.pdf"}
+{"map_id":"PAM0069","item_type":"Practice","item_id":"P0003","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0070","item_type":"Practice","item_id":"P0013","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0071","item_type":"Practice","item_id":"P0004","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0072","item_type":"Practice","item_id":"P0060","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0073","item_type":"Practice","item_id":"P0097","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0074","item_type":"Practice","item_id":"P0151","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0075","item_type":"Practice","item_id":"P0043","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0076","item_type":"Practice","item_id":"P0012","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0077","item_type":"Practice","item_id":"P0090","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0078","item_type":"Practice","item_id":"P0056","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0079","item_type":"Practice","item_id":"P0101","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0080","item_type":"Practice","item_id":"P0055","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0081","item_type":"Practice","item_id":"P0053","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0082","item_type":"Practice","item_id":"P0054","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0083","item_type":"Practice","item_id":"P0083","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0084","item_type":"Practice","item_id":"P0100","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0085","item_type":"Practice","item_id":"P0045","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0086","item_type":"Practice","item_id":"P0035","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0087","item_type":"Practice","item_id":"P0070","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0088","item_type":"Practice","item_id":"P0123","ailment_id":"A004","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0089","item_type":"Practice","item_id":"P0026","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0090","item_type":"Practice","item_id":"P0022","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0091","item_type":"Practice","item_id":"P0021","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0092","item_type":"Practice","item_id":"P0018","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0093","item_type":"Practice","item_id":"P0017","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0094","item_type":"Practice","item_id":"P0014","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0095","item_type":"Practice","item_id":"P0058","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0096","item_type":"Practice","item_id":"P0070","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0097","item_type":"Practice","item_id":"P0123","ailment_id":"A010","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"Section E Practice List.pdf"}
+{"map_id":"PAM0098","item_type":"Practice","item_id":"P0057","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0099","item_type":"Practice","item_id":"P0014","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0100","item_type":"Practice","item_id":"P0058","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0101","item_type":"Practice","item_id":"P0015","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0102","item_type":"Practice","item_id":"P0059","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0103","item_type":"Practice","item_id":"P0021","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0104","item_type":"Practice","item_id":"P0060","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0105","item_type":"Practice","item_id":"P0026","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0106","item_type":"Practice","item_id":"P0061","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0107","item_type":"Practice","item_id":"P0034","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0108","item_type":"Practice","item_id":"P0063","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0109","item_type":"Practice","item_id":"P0077","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0110","item_type":"Practice","item_id":"P0043","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0111","item_type":"Practice","item_id":"P0102","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0112","item_type":"Practice","item_id":"P0045","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0113","item_type":"Practice","item_id":"P0103","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0114","item_type":"Practice","item_id":"P0065","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0115","item_type":"Practice","item_id":"P0039","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0116","item_type":"Practice","item_id":"P0053","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0117","item_type":"Practice","item_id":"P0001","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0118","item_type":"Practice","item_id":"P0083","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0119","item_type":"Practice","item_id":"P0003","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0120","item_type":"Practice","item_id":"P0100","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0121","item_type":"Practice","item_id":"P0004","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0122","item_type":"Practice","item_id":"P0087","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0123","item_type":"Practice","item_id":"P0008","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0124","item_type":"Practice","item_id":"P0040","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0125","item_type":"Practice","item_id":"P0006","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0126","item_type":"Practice","item_id":"P0090","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0127","item_type":"Practice","item_id":"P0009","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0128","item_type":"Practice","item_id":"P0144","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0129","item_type":"Practice","item_id":"P0046","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0130","item_type":"Practice","item_id":"P0145","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0131","item_type":"Practice","item_id":"P0151","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0132","item_type":"Practice","item_id":"P0146","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0133","item_type":"Practice","item_id":"P0104","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0134","item_type":"Practice","item_id":"P0105","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0135","item_type":"Practice","item_id":"P0080","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0136","item_type":"Practice","item_id":"P0147","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0137","item_type":"Practice","item_id":"P0123","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0138","item_type":"Practice","item_id":"P0115","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0139","item_type":"Practice","item_id":"P0116","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0140","item_type":"Practice","item_id":"P0117","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0141","item_type":"Practice","item_id":"P0118","ailment_id":"A011","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC A Practice List.pdf"}
+{"map_id":"PAM0142","item_type":"Practice","item_id":"P0002","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0143","item_type":"Practice","item_id":"P0016","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0144","item_type":"Practice","item_id":"P0001","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0145","item_type":"Practice","item_id":"P0018","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0146","item_type":"Practice","item_id":"P0005","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0147","item_type":"Practice","item_id":"P0020","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0148","item_type":"Practice","item_id":"P0008","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0149","item_type":"Practice","item_id":"P0025","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0150","item_type":"Practice","item_id":"P0006","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0151","item_type":"Practice","item_id":"P0024","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0152","item_type":"Practice","item_id":"P0009","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0153","item_type":"Practice","item_id":"P0042","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0154","item_type":"Practice","item_id":"P0010","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0155","item_type":"Practice","item_id":"P0101","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0156","item_type":"Practice","item_id":"P0046","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0157","item_type":"Practice","item_id":"P0090","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0158","item_type":"Practice","item_id":"P0151","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0159","item_type":"Practice","item_id":"P0053","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0160","item_type":"Practice","item_id":"P0030","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0161","item_type":"Practice","item_id":"P0082","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0162","item_type":"Practice","item_id":"P0014","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0163","item_type":"Practice","item_id":"P0123","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0164","item_type":"Practice","item_id":"P0058","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0165","item_type":"Practice","item_id":"P0077","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0166","item_type":"Practice","item_id":"P0059","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0167","item_type":"Practice","item_id":"P0083","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0168","item_type":"Practice","item_id":"P0137","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0169","item_type":"Practice","item_id":"P0100","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0170","item_type":"Practice","item_id":"P0138","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0171","item_type":"Practice","item_id":"P0040","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0172","item_type":"Practice","item_id":"P0139","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0173","item_type":"Practice","item_id":"P0140","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0174","item_type":"Practice","item_id":"P0141","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0175","item_type":"Practice","item_id":"P0142","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0176","item_type":"Practice","item_id":"P0012","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0177","item_type":"Practice","item_id":"P0143","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0178","item_type":"Practice","item_id":"P0078","ailment_id":"A012","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC D Peactice List.pdf"}
+{"map_id":"PAM0179","item_type":"Practice","item_id":"P0057","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0180","item_type":"Practice","item_id":"P0058","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0181","item_type":"Practice","item_id":"P0062","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0182","item_type":"Practice","item_id":"P0063","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0183","item_type":"Practice","item_id":"P0061","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0184","item_type":"Practice","item_id":"P0060","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0185","item_type":"Practice","item_id":"P0042","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0186","item_type":"Practice","item_id":"P0064","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0187","item_type":"Practice","item_id":"P0052","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0188","item_type":"Practice","item_id":"P0065","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0189","item_type":"Practice","item_id":"P0066","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0190","item_type":"Practice","item_id":"P0067","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0191","item_type":"Practice","item_id":"P0077","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0192","item_type":"Practice","item_id":"P0078","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0193","item_type":"Practice","item_id":"P0102","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0194","item_type":"Practice","item_id":"P0079","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0195","item_type":"Practice","item_id":"P0087","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0196","item_type":"Practice","item_id":"P0088","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0197","item_type":"Practice","item_id":"P0086","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0198","item_type":"Practice","item_id":"P0081","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0199","item_type":"Practice","item_id":"P0089","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0200","item_type":"Practice","item_id":"P0106","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0201","item_type":"Practice","item_id":"P0107","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0202","item_type":"Practice","item_id":"P0108","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0203","item_type":"Practice","item_id":"P0084","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0204","item_type":"Practice","item_id":"P0091","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0205","item_type":"Practice","item_id":"P0093","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0206","item_type":"Practice","item_id":"P0072","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0207","item_type":"Practice","item_id":"P0068","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0208","item_type":"Practice","item_id":"P0073","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0209","item_type":"Practice","item_id":"P0069","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0210","item_type":"Practice","item_id":"P0074","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0211","item_type":"Practice","item_id":"P0071","ailment_id":"A013","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC PPH Practice List.pdf"}
+{"map_id":"PAM0212","item_type":"Practice","item_id":"P0001","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0213","item_type":"Practice","item_id":"P0057","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0214","item_type":"Practice","item_id":"P0005","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0215","item_type":"Practice","item_id":"P0059","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0216","item_type":"Practice","item_id":"P0011","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0217","item_type":"Practice","item_id":"P0058","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0218","item_type":"Practice","item_id":"P0151","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0219","item_type":"Practice","item_id":"P0060","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0220","item_type":"Practice","item_id":"P0014","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0221","item_type":"Practice","item_id":"P0016","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0222","item_type":"Practice","item_id":"P0019","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0223","item_type":"Practice","item_id":"P0035","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0224","item_type":"Practice","item_id":"P0021","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0225","item_type":"Practice","item_id":"P0034","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0226","item_type":"Practice","item_id":"P0027","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0227","item_type":"Practice","item_id":"P0078","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0228","item_type":"Practice","item_id":"P0152","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0229","item_type":"Practice","item_id":"P0042","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0230","item_type":"Practice","item_id":"P0045","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0231","item_type":"Practice","item_id":"P0102","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0232","item_type":"Practice","item_id":"P0101","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0233","item_type":"Practice","item_id":"P0087","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0234","item_type":"Practice","item_id":"P0066","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0235","item_type":"Practice","item_id":"P0104","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}
+{"map_id":"PAM0236","item_type":"Practice","item_id":"P0123","ailment_id":"A009","priority":"Supportive","notes":"Derived from inclusion in protocol.","source_doc":"SEC B ( C ) Practice List.pdf"}

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "conditions.schema.json",
+  "title": "conditions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "condition_id": {
+      "type": "string",
+      "pattern": "^C\\d{3,}$"
+    },
+    "condition_name": {
+      "type": "string"
+    },
+    "condition_group": {
+      "type": "string"
+    },
+    "condition_type": {
+      "type": "string",
+      "enum": [
+        "Caution",
+        "Contraindication"
+      ]
+    },
+    "meaning_function": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    },
+    "active_flag": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "condition_id",
+    "condition_name",
+    "condition_group",
+    "condition_type",
+    "meaning_function",
+    "source_doc",
+    "active_flag"
+  ]
+}

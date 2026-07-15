@@ -1,0 +1,12 @@
+{"posture_type_id":"PT01","posture_type":"Standing","meaning_function":"Performed primarily in standing."}
+{"posture_type_id":"PT02","posture_type":"Sitting","meaning_function":"Performed primarily in sitting."}
+{"posture_type_id":"PT03","posture_type":"Supine","meaning_function":"Performed lying on the back."}
+{"posture_type_id":"PT04","posture_type":"Prone","meaning_function":"Performed lying on the abdomen."}
+{"posture_type_id":"PT05","posture_type":"Quadruped","meaning_function":"Performed on hands and knees / table-top variations."}
+{"posture_type_id":"PT06","posture_type":"Dynamic / Locomotor","meaning_function":"Repeated or moving whole-body practice such as jogging or crow walking."}
+{"posture_type_id":"PT07","posture_type":"Chair / Supported","meaning_function":"Performed with chair or other support."}
+{"posture_type_id":"PT08","posture_type":"Mixed / Sequence","meaning_function":"Sequence containing multiple body positions or transitions."}
+{"posture_type_id":"PT09","posture_type":"Breath-led / Non-postural","meaning_function":"Primarily breath-focused; body position secondary."}
+{"posture_type_id":"PT10","posture_type":"Cleansing / Utility","meaning_function":"Primarily cleansing, gaze, or utility technique rather than body position."}
+{"posture_type_id":"PT11","posture_type":"Mixed","meaning_function":""}
+{"posture_type_id":"PT12","posture_type":"None","meaning_function":""}

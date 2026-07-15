@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "practices.schema.json",
+  "title": "practices",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "practice_id": {
+      "type": "string",
+      "pattern": "^P\\d{4}$"
+    },
+    "canonical_name": {
+      "type": "string"
+    },
+    "english_name": {
+      "type": "string"
+    },
+    "category_id": {
+      "type": "string"
+    },
+    "posture_type_id": {
+      "type": "string"
+    },
+    "subtype_id": {
+      "type": "string"
+    },
+    "difficulty_level": {
+      "type": "string"
+    },
+    "breath_integrated": {
+      "type": "string",
+      "enum": [
+        "",
+        "Yes",
+        "No"
+      ]
+    },
+    "modality": {
+      "type": "string"
+    },
+    "touch_type": {
+      "type": "string"
+    },
+    "touch_consent_required": {
+      "type": "string",
+      "enum": [
+        "",
+        "Yes",
+        "No"
+      ]
+    },
+    "energy_work_flag": {
+      "type": "boolean"
+    },
+    "is_dynamic": {
+      "type": "boolean"
+    },
+    "description": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    },
+    "active_flag": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "practice_id",
+    "canonical_name",
+    "english_name",
+    "category_id",
+    "posture_type_id",
+    "subtype_id",
+    "difficulty_level",
+    "breath_integrated",
+    "modality",
+    "touch_type",
+    "touch_consent_required",
+    "energy_work_flag",
+    "is_dynamic",
+    "description",
+    "source_doc",
+    "active_flag"
+  ]
+}

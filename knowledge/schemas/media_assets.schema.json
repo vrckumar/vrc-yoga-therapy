@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "media_assets.schema.json",
+  "title": "media_assets",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "media_id": {
+      "type": "string",
+      "pattern": "^MEDC\\d{3,}$"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "media_type": {
+      "type": "string"
+    },
+    "view_type": {
+      "type": "string"
+    },
+    "file_name": {
+      "type": "string"
+    },
+    "file_path": {
+      "type": "string"
+    },
+    "prompt_text": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "media_id",
+    "item_type",
+    "item_id",
+    "media_type",
+    "view_type",
+    "file_name",
+    "file_path",
+    "prompt_text",
+    "version",
+    "notes"
+  ]
+}

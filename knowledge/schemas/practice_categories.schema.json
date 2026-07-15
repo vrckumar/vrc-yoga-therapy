@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "practice_categories.schema.json",
+  "title": "practice_categories",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "category_id": {
+      "type": "string",
+      "pattern": "^CAT\\d{2,}$"
+    },
+    "category_name": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "category_id",
+    "category_name",
+    "meaning_function"
+  ]
+}

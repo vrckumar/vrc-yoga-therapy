@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "protocol_items.schema.json",
+  "title": "protocol_items",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "protocol_item_id": {
+      "type": "string",
+      "pattern": "^(?:PR\\d{3,}:[A-Za-z]+:[A-Z0-9]+:\\d+|PIM[A-Z0-9]+)$"
+    },
+    "protocol_id": {
+      "type": "string"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "sequence_order": {
+      "type": "integer"
+    },
+    "dose_or_duration": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "protocol_item_id",
+    "protocol_id",
+    "item_type",
+    "item_id",
+    "sequence_order",
+    "dose_or_duration",
+    "notes"
+  ]
+}

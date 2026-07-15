@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "item_aliases.schema.json",
+  "title": "item_aliases",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "alias_id": {
+      "type": "string",
+      "pattern": "^ALS\\d{3,}$"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "alias_name": {
+      "type": "string"
+    },
+    "alias_type": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "alias_id",
+    "item_type",
+    "item_id",
+    "alias_name",
+    "alias_type",
+    "source_doc"
+  ]
+}

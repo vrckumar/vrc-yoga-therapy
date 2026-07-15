@@ -1,0 +1,20 @@
+{"goal_id":"G001","goal_name":"Spine Mobility","goal_group":"Musculoskeletal","meaning_function":"Improve spinal movement and reduce stiffness."}
+{"goal_id":"G002","goal_name":"Back Extension Strength","goal_group":"Musculoskeletal","meaning_function":"Strengthen posterior chain and back extensors."}
+{"goal_id":"G003","goal_name":"Lumbar Relaxation","goal_group":"Musculoskeletal","meaning_function":"Reduce lumbar tightness and spasm."}
+{"goal_id":"G004","goal_name":"Neck and Shoulder Release","goal_group":"Musculoskeletal","meaning_function":"Relieve neck/shoulder tension and improve mobility."}
+{"goal_id":"G005","goal_name":"Joint Mobility","goal_group":"Musculoskeletal","meaning_function":"Mobilize peripheral joints and improve range of motion."}
+{"goal_id":"G006","goal_name":"Balance and Coordination","goal_group":"Neuromotor","meaning_function":"Improve equilibrium and neuromuscular coordination."}
+{"goal_id":"G007","goal_name":"Core Strength","goal_group":"Neuromotor","meaning_function":"Improve abdominal/core stability and control."}
+{"goal_id":"G008","goal_name":"Weight Management Support","goal_group":"Metabolic","meaning_function":"Support increased energy expenditure and metabolic activity."}
+{"goal_id":"G009","goal_name":"Digestion Support","goal_group":"Digestive","meaning_function":"Stimulate abdominal organs and digestive function."}
+{"goal_id":"G010","goal_name":"Metabolic Stimulation","goal_group":"Metabolic","meaning_function":"Stimulate endocrine/metabolic activity."}
+{"goal_id":"G011","goal_name":"Circulation Support","goal_group":"Cardiovascular","meaning_function":"Support blood circulation and venous return."}
+{"goal_id":"G012","goal_name":"Respiratory Expansion","goal_group":"Respiratory","meaning_function":"Expand chest/lungs and improve breathing mechanics."}
+{"goal_id":"G013","goal_name":"Breath Balancing","goal_group":"Respiratory","meaning_function":"Balance nostrils, respiratory rhythm, and autonomic tone."}
+{"goal_id":"G014","goal_name":"Relaxation Response","goal_group":"Psychological","meaning_function":"Induce deep rest and reduce hyperarousal."}
+{"goal_id":"G015","goal_name":"Stress Reduction","goal_group":"Psychological","meaning_function":"Reduce stress, anxiety, and psycho-physiological load."}
+{"goal_id":"G016","goal_name":"Concentration and Gaze","goal_group":"Psychological","meaning_function":"Enhance focus and attention stability."}
+{"goal_id":"G017","goal_name":"Emotional Regulation","goal_group":"Psychological","meaning_function":"Support calming, emotional settling, and affect balance."}
+{"goal_id":"G018","goal_name":"Positive Health Promotion","goal_group":"Positive Health","meaning_function":"General wellbeing and resilience building."}
+{"goal_id":"G019","goal_name":"Cleansing / Detox Support","goal_group":"Cleansing","meaning_function":"Support cleansing, elimination, and internal purification."}
+{"goal_id":"G020","goal_name":"Sleep / Deep Rest Support","goal_group":"Psychological","meaning_function":"Promote sleep readiness and deep rest."}

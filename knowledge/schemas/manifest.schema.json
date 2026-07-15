@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "manifest.schema.json",
+  "title": "knowledge-manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "knowledge_version": {
+      "type": "string"
+    },
+    "source_format": {
+      "type": "string",
+      "const": "ndjson"
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "table_name": {
+            "type": "string"
+          },
+          "file_name": {
+            "type": "string"
+          },
+          "primary_key": {
+            "type": "string"
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "table_name",
+          "file_name",
+          "primary_key",
+          "count"
+        ]
+      }
+    },
+    "id_prefixes": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "knowledge_version",
+    "source_format",
+    "source_sha256",
+    "files",
+    "id_prefixes"
+  ]
+}

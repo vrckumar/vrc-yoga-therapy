@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "item_ailment_maps.schema.json",
+  "title": "item_ailment_maps",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "map_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{3,6}[A-Z0-9]*\\d+$"
+    },
+    "item_type": {
+      "type": "string",
+      "enum": [
+        "Practice",
+        "Variation",
+        "Protocol",
+        "Lifestyle"
+      ]
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "ailment_id": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Primary",
+        "Supportive",
+        ""
+      ]
+    },
+    "notes": {
+      "type": "string"
+    },
+    "source_doc": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "map_id",
+    "item_type",
+    "item_id",
+    "ailment_id",
+    "priority",
+    "notes",
+    "source_doc"
+  ]
+}

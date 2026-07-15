@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "goals.schema.json",
+  "title": "goals",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "goal_id": {
+      "type": "string",
+      "pattern": "^G\\d{3,}$"
+    },
+    "goal_name": {
+      "type": "string"
+    },
+    "goal_group": {
+      "type": "string"
+    },
+    "meaning_function": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "goal_id",
+    "goal_name",
+    "goal_group",
+    "meaning_function"
+  ]
+}

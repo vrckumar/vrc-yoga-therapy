@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lifestyles.schema.json",
+  "title": "lifestyles",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "lifestyle_id": {
+      "type": "string",
+      "pattern": "^LIF\\d{3,}$"
+    },
+    "category": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "modality": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "instructions": {
+      "type": "string"
+    },
+    "dosha_target": {
+      "type": "string"
+    },
+    "time_of_day": {
+      "type": "string"
+    },
+    "home_practice_friendly": {
+      "type": "boolean"
+    },
+    "active_flag": {
+      "type": "boolean"
+    },
+    "source_doc": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "lifestyle_id",
+    "category",
+    "name",
+    "modality",
+    "description",
+    "instructions",
+    "dosha_target",
+    "time_of_day",
+    "home_practice_friendly",
+    "active_flag",
+    "source_doc",
+    "notes"
+  ]
+}
